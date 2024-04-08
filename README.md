@@ -119,22 +119,31 @@ The following schedules account for differences in timezone.
 
 <details>
 
-<summary><b>Summary of Projects</b></summary>
+<summary><b>Darshan Table</b></summary>
 
 ---
 
-- New (?) smaller peetham with system for raising up automatically
-- System for raising Amma's chair automatically like the turning mechanism in Amritapuri
-- Arms of Amma's chair need to slide sideways - Hansa has the sliding armrests
-- Table for in front of Amma that she beats with the stick during bhajans
-- Table for gong for meditation
-- Foam "things" of different weight to make the columns on both sides of peetham
+The darshan table should have system for adjusting height during darshan.
 
-Other projects that may be needed
+![image dtA](/images/darshan_table_A_side.jpg)
+![image dtB](/images/darshan_table_B_adjuster.jpg)
+![image dtC](/images/darshan_table_C_lifter.jpg)
+![image dtD](/images/darshan_table_D_by_chair.jpg)
 
-- Ramps for standing darshan
-- Rolling table with shelf for bhajan books
-- New arm rests on Amma's chair should be removable
+</details>
+
+---
+
+<details>
+
+<summary><b>Bhajan table</b></summary>
+
+---
+
+This is the table that Amma beats with a stick during bhajans. The table has a groove on top where the stick is supposed to be.
+
+![image bt1](/images/bhajan_table_1_all.jpg)
+![image bt2](/images/bhajan_table_2_top_only.jpg)
 
 </details>
 
@@ -146,7 +155,9 @@ Other projects that may be needed
 
 ---
 
-Arms need to slide sideways.
+Arms need to slide sideways. Hansa has the sliding armrests
+
+Decision item - Do the arm rests need be removable?
 
 See video - Add link to video
 
@@ -166,7 +177,7 @@ Lola says it may or may not be necessary to build a smaller peetham -
 - Size of Amma's peetham in Amritapuri - 47 inches wide, 34 inches long
 - Lola says to plan the project but expenses are not yet approved
 
-If a new peetham is going to be made it should be built with hardware components from the west which is made for the purpose of lifting which would telescope the legs up and down.
+If a new peetham made, it should be built with hardware components from the west which is made for the purpose of lifting which would telescope the legs up and down.
 
 </details>
 
@@ -177,7 +188,7 @@ If a new peetham is going to be made it should be built with hardware components
 
 ---
 
-It seems that very similar lifting systems are used for both Amma's peetham and chair at Amritapuri, right?
+The lifting systems for both Amma's peetham and chair at Amritapuri are different from each other.
 
 Probably our best option is to build lifting mechanisms similar to what they have in Amritapuri. This lifting system was built in India at least 16 years ago by Amma's son Jitendra, using hardware available in India. From what I understand, this is a successful system. It seems like if the chain breaks or comes off, there is no danger of sudden collapse. The platform would simply be stuck in the current position, right?
 
@@ -188,7 +199,7 @@ There is an idea for a hydraulic system operated with a remote, like in a hospit
 ---
 
 <details>
-<summary><b>Photos of Lifting Mechanisms</b></summary>
+<summary><b>Lifting Mechanisms for Peetham</b></summary>
 
 ---
 
@@ -301,7 +312,7 @@ Image 16 - Other side of mounting plate with embedded nut
 
 Image 17 - This is where one of the tie rods emerges from the main frame. The sprockets, chain, and entire main frame stay together and move up or down as a unit. As the crank is turned and the tie rods also turn, the unmodified nut moves up or down the tie rod. This nut is embedded in the mounting plate and so is prevented from turning as the tie rod turns. As the tie rod moves up or down, it forces the leg to extend or retract. It appears there is another bearing embedded in the main frame where the tie rod emerges.
 
-![image 17](/images/17_mounting_site.jpg)
+![image 17](/images/17_lifting_site.jpg)
 
 ---
 
@@ -317,7 +328,7 @@ Image 19 - Lower tie rod assembly. What is the purpose of the small piece of ply
 
 ---
 
-Image 20 - Close up of upper tie rod, sprocket, bearing, bushing, and machined nut. The entire weight of the platform rests on these four sets of roller bearings, one on each leg. It seems that The bearing is firmly attached to the bushing, which in turn is firmly attached to the tie rod. When everything is assembled, the roller bearing is underneath the main frame, supporting the entire platform. There is (must be?) a raceway that accommodates the bearing where the tie rod comes through the main frame. This area is shown in image 17.
+Image 20 - Close up of upper tie rod, sprocket, bearing, bushing, and machined nut. The entire weight of the platform rests on these four sets of roller bearings, one on each leg. It seems that the bearing is firmly attached to the bushing, which in turn is firmly attached to the tie rod. When everything is assembled, the roller bearing is underneath the main frame, supporting the entire platform. There is (must be?) a raceway that accommodates the bearing where the tie rod comes through the main frame. This area is shown in image 17.
 
 ![image 20](/images/20_bearing_assembly.jpg)
 
@@ -346,6 +357,75 @@ Image 24 - Another view of leg assembly sitting next to main frame. In this imag
 Apparently the partially assembled leg is inserted from underneath, and then the sprocket is installed on top. Then the T-shaped piece goes into the slot on top of the tie rod. Finally there is a nut that secures the sprocket to the top end of the tie rod.
 
 ![image 24](/images/24_leg_in_context_2.jpg)
+
+---
+
+Images of upgraded piston
+
+![image 25](/images/new_piston_1_assembly.jpg)
+![image 26](/images/new_piston_2_threaded.jpg)
+![image 27](/images/new_piston_3_w_bearing_sprocket.jpg)
+![image 28](/images/new_piston_4_w_bearing.jpg)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Lifting Mechanism for Amma's Chair</b></summary>
+
+---
+
+System for raising Amma's chair automatically like the turning mechanism in Amritapuri.
+
+No photos are available. That is because the mechanisms are hidden when chair is assembled.
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Hydraulic Lifting System - Photos</b></summary>
+
+---
+
+System for raising Amma's chair automatically used in Thailand.
+
+![image hs1](/images/hydraulic_system_1_bottom.jpg)
+![image hs2](/images/hydraulic_system_2_scale.jpg)
+![image hs3](/images/hydraulic_system_3_side.jpg)
+![image hs4](/images/hydraulic_system_4_back.jpg)
+![image hs5](/images/hydraulic_system_5_front.jpg)
+![image hs6](/images/hydraulic_system_6_technicians.jpg)
+![image hs7](/images/hydraulic_system_7_back_corner.jpg)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Foam Projects</b></summary>
+
+---
+
+- Foam "things" of different weight to make the columns on both sides of peetham
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Other Possible Projects</b></summary>
+
+---
+
+- Table for gong for meditation
+- Ramps for standing darshan
+- Rolling table with shelf for bhajan books
 
 </details>
 
