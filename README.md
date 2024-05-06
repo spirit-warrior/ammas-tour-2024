@@ -4,13 +4,9 @@
 <tr>
 <td>
 
-Created this repo - March 31, 2024
+<!-- Created this repo - March 31, 2024 -->
 
-There is speculation that Amma may come to three places in North America -
-
-- San Ramon CA
-- Elburn IL
-- Unknown other place
+There is word from the inner circle that Amma coming to North America in July 2024.
 
 No additional information is available, especially not reliable info.
 
@@ -20,150 +16,11 @@ No additional information is available, especially not reliable info.
 </tr>
 </table>
 
-## Transporting Tour Equipment
+## Lifting Systems for Peetham and Chair
 
 <table>
 <tr>
 <td>
-
-<details>
-<summary><b> Suggested Transportation Strategy</b></summary>
-
----
-
-Renting big trucks for a shorter tour is not recommended because it would cost too much and arrive too late. It seems better to follow the pattern of the fall tours to Michigan and California. Don't use the big trucks. Obtain most items locally or ship them ahead of time. Many important items can be quickly transported from Michigan to Elburn.
-
-Only the most essential items should be transported from SR -
-
-- Amma's chair
-- Amma's peetham
-- Chair cloth suitcase
-- Other custom darshan equipment
-
-Minivans are suggested for the time sensitive items because they are faster than larger cargo vans. Probably Amma's chair, peetham, and some smaller items can fit in one minivan. This would have to be the Dodge Caravan or Chrysler Pacifica with seats that fold down and disappear into the floor.
-
-We could have multiple minivans or combination of minivan and cargo vans. It might be decided to use a truck for the sound system. Obviously any decisions about renting vehicles must go through the tour coordinators.
-
-We need at least 2 drivers per minivan. Fortunately the drivers only need a normal drivers license, not a commercial license.
-
-If requested, I can produce a break down of cost differences between truck, van, and minivan.
-
-</details>
-
----
-
-<details>
-<summary><b>Estimated Arrival Times - Minivan vs. Truck</b></summary>
-
----
-
-The following schedules account for differences in timezone.
-
-<b>West to East - San Ramon to Elburn</b>
-
-- Minivan
-
-  - Depart SR - 6 am
-  - Arrive Elburn - 1 pm, next day
-
-- Big Truck
-  - Depart SR - 6 am
-  - Arrive Elburn - 1 am on day 3
-
-<b>West to East - Elburn to Manhattan</b>
-
-- Minivan
-
-  - Depart Elburn - 6 am
-  - Arrive NYC - 7 pm, same day
-
-- Big Truck
-  - Depart Elburn - 6 am
-  - Arrive NYC - 12 midnight, same day
-
-<b>East to West - Manhattan to Elburn</b>
-
-- Minivan
-
-  - Depart NYC - 6 am
-  - Arrive Elburn - 5 pm, same day
-
-- Big Truck
-  - Depart NYC - 6 am
-  - Arrive Elburn - 10 pm, same day
-
-<b>East to West - Elburn to San Ramon</b>
-
-- Minivan
-
-  - Depart Elburn - 6 am
-  - Arrive SR - 9 am, next day
-
-- Big Truck
-  - Depart Elburn - 6 am
-  - Arrive SR - 9 pm, next day
-
-</details>
-
----
-
-</td>
-</tr>
-</table>
-
-## Projects
-
-<table>
-<tr>
-<td>
-
-<details>
-
-<summary><b>Darshan Table</b></summary>
-
----
-
-The darshan table should have system for adjusting height during darshan.
-
-![image dtA](/images/darshan_table_A_side.jpg)
-![image dtB](/images/darshan_table_B_adjuster.jpg)
-![image dtC](/images/darshan_table_C_lifter.jpg)
-![image dtD](/images/darshan_table_D_by_chair.jpg)
-
-</details>
-
----
-
-<details>
-
-<summary><b>Bhajan table</b></summary>
-
----
-
-This is the table that Amma beats with a stick during bhajans. The table has a groove on top where the stick is supposed to be.
-
-![image bt1](/images/bhajan_table_1_all.jpg)
-![image bt2](/images/bhajan_table_2_top_only.jpg)
-
-</details>
-
----
-
-<details>
-
-<summary><b>Sliding Armrests for Amma's Chair</b></summary>
-
----
-
-Arms need to slide sideways. Hansa has the sliding armrests
-
-Decision item - Do the arm rests need be removable?
-
-See video - Add link to video
-
-</details>
-
----
 
 <details>
 <summary><b>Modify Amma's Peetham</b></summary>
@@ -177,7 +34,7 @@ Lola says it may or may not be necessary to build a smaller peetham -
 - Size of Amma's peetham in Amritapuri - 47 inches wide, 34 inches long
 - Lola says to plan the project but expenses are not yet approved
 
-If a new peetham made, it should be built with hardware components from the west which is made for the purpose of lifting which would telescope the legs up and down.
+If a new peetham made, it should be "built with hardware components from the west which is made for the purpose of lifting which would telescope the legs up and down".
 
 </details>
 
@@ -192,7 +49,7 @@ The lifting systems for both Amma's peetham and chair at Amritapuri are differen
 
 Probably our best option is to build lifting mechanisms similar to what they have in Amritapuri. This lifting system was built in India at least 16 years ago by Amma's son Jitendra, using hardware available in India. From what I understand, this is a successful system. It seems like if the chain breaks or comes off, there is no danger of sudden collapse. The platform would simply be stuck in the current position, right?
 
-There is an idea for a hydraulic system operated with a remote, like in a hospital bed. But this is an unproven design. A potential problem with a hydraulic system, apart from the learning curve, is that the hydraulic fluid could leak, allowing the platform to lose height somewhat quickly.
+There is an idea for a hydraulic system operated with a remote, like in a hospital bed. But this is an unproven design. A potential problem with a hydraulic system, apart from the learning curve, is that the hydraulic fluid could leak, allowing the platform to lose height quickly.
 
 </details>
 
@@ -360,11 +217,32 @@ Apparently the partially assembled leg is inserted from underneath, and then the
 
 ---
 
-Images of upgraded piston
+### Images of Upgraded Piston
+
+(Piston is another name for tie rod)
+
+---
+
+Image 25
 
 ![image 25](/images/new_piston_1_assembly.jpg)
+
+---
+
+Image 26
+
 ![image 26](/images/new_piston_2_threaded.jpg)
+
+---
+
+Image 27
+
 ![image 27](/images/new_piston_3_w_bearing_sprocket.jpg)
+
+---
+
+Image 28
+
 ![image 28](/images/new_piston_4_w_bearing.jpg)
 
 </details>
@@ -379,7 +257,7 @@ Images of upgraded piston
 
 System for raising Amma's chair automatically like the turning mechanism in Amritapuri.
 
-No photos are available. That is because the mechanisms are hidden when chair is assembled.
+No photos could be provided because the mechanisms are hidden inside the woodwork when chair is assembled.
 
 </details>
 
@@ -400,6 +278,64 @@ System for raising Amma's chair automatically used in Thailand.
 ![image hs5](/images/hydraulic_system_5_front.jpg)
 ![image hs6](/images/hydraulic_system_6_technicians.jpg)
 ![image hs7](/images/hydraulic_system_7_back_corner.jpg)
+
+</details>
+
+---
+
+</td>
+</tr>
+</table>
+
+## Other Projects - Easier
+
+<table>
+<tr>
+<td>
+
+<details>
+
+<summary><b>Darshan Table</b></summary>
+
+---
+
+The darshan table should have system for adjusting height during darshan.
+
+![image dtA](/images/darshan_table_A_side.jpg)
+![image dtB](/images/darshan_table_B_adjuster.jpg)
+![image dtC](/images/darshan_table_C_lifter.jpg)
+![image dtD](/images/darshan_table_D_by_chair.jpg)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Bhajan table</b></summary>
+
+---
+
+This is the table that Amma beats with a stick during bhajans. The table has a groove on top where the stick is supposed to be.
+
+![image bt1](/images/bhajan_table_1_all.jpg)
+![image bt2](/images/bhajan_table_2_top_only.jpg)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Sliding Armrests for Amma's Chair</b></summary>
+
+---
+
+Arms need to slide sideways.
+
+Decision item - Do the arm rests need be removable?
+
+There is a video on WhatsApp.
 
 </details>
 
