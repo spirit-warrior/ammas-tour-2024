@@ -6,9 +6,7 @@
 
 <!-- Created this repo - March 31, 2024 -->
 
-There is word from the inner circle that Amma coming to North America in July 2024.
-
-No additional information is available, especially not reliable info.
+The announcement has gone out that Amma is coming to North America in July 2024. The plan is to go to all the cities, same as before, except not Dallas. The order of cities is yet to be determined. The intention is to start the tour on July 1st and run into the middle of August. There will be retreats but no other details have been released.
 
 ---
 
@@ -23,48 +21,42 @@ No additional information is available, especially not reliable info.
 <td>
 
 <details>
-<summary><b>Modify Amma's Peetham</b></summary>
+<summary><b>Proposed New Adjustable Peetham</b></summary>
 
 ---
 
-We need to modify Amma's peetham so that the height is adjustable from 12 inches to 17.5 inches
+We are requested to build a smaller peetham with the following dimensions:
 
-Lola says it may or may not be necessary to build a smaller peetham -
+- Width, side-to-side - 47 inches
+- Length, front-to-back - 34 inches
+- Thickness of peetham platform (not including unistrut lifting system) - No estimate yet
+- Total height - Adjustable from 12 inches to 17.5 inches.
 
-- Size of Amma's peetham in Amritapuri - 47 inches wide, 34 inches long
-- Lola says to plan the project but expenses are not yet approved
-
-If a new peetham made, it should be "built with hardware components from the west which is made for the purpose of lifting which would telescope the legs up and down".
+Currently we are considering using actuators to raise and lower the peetham. This seems preferable to the other options: hydraulics or mechanical crank and gear systems (see photos in archives).
 
 </details>
 
 ---
 
 <details>
-<summary><b>Lifting Systems - Notes</b></summary>
+<summary><b>Proposed Lifting System for Amma's Chair</b></summary>
 
 ---
 
-The lifting systems for both Amma's peetham and chair at Amritapuri are different from each other.
-
-Probably our best option is to build lifting mechanisms similar to what they have in Amritapuri. This lifting system was built in India at least 16 years ago by Amma's son Jitendra, using hardware available in India. From what I understand, this is a successful system. It seems like if the chain breaks or comes off, there is no danger of sudden collapse. The platform would simply be stuck in the current position, right?
-
-There is an idea for a hydraulic system operated with a remote, like in a hospital bed. But this is an unproven design. A potential problem with a hydraulic system, apart from the learning curve, is that the hydraulic fluid could leak, allowing the platform to lose height quickly.
+We need the same type of lifting system for adjusting the height of Amma's chair during darshan. It would probably be much the same as the system for the peetham as described above.
 
 </details>
 
 ---
 
 <details>
-<summary><b>Lifting Mechanisms for Peetham</b></summary>
+<summary><b>Archives - Photos of Mechanical Lifting System - Amritapuri</b></summary>
 
 ---
 
-Image 1 - Bottom view of leg
+This lifting system was built in India around 2007 by Amma's son Jitendra, using hardware obtained in India.
 
-![image 1](/images/01_leg_side_view_.jpg)
-
----
+Amma's chair in Amritapuri also has a similar lifting system but no photos could be provided because the mechanisms are hidden inside the woodwork of the chair.
 
 Image 2 - Sprockets and chain drive. The crank is on the bottom. The chain looks like regular bicycle chain. Are all the sprockets the same diameter? Why is there a spring near the center sprocket?
 
@@ -217,6 +209,12 @@ Apparently the partially assembled leg is inserted from underneath, and then the
 
 ---
 
+Image 1 - Bottom view of leg
+
+![image 1](/images/01_leg_side_view_.jpg)
+
+---
+
 ### Images of Upgraded Piston
 
 (Piston is another name for tie rod)
@@ -251,21 +249,7 @@ Image 28
 
 <details>
 
-<summary><b>Lifting Mechanism for Amma's Chair</b></summary>
-
----
-
-System for raising Amma's chair automatically like the turning mechanism in Amritapuri.
-
-No photos could be provided because the mechanisms are hidden inside the woodwork when chair is assembled.
-
-</details>
-
----
-
-<details>
-
-<summary><b>Hydraulic Lifting System - Photos</b></summary>
+<summary><b>Archives - Photos of Hydraulic Lifting System - Thailand</b></summary>
 
 ---
 
@@ -359,6 +343,7 @@ There is a video on WhatsApp.
 
 ---
 
+- Updates coming soon
 - Table for gong for meditation
 - Ramps for standing darshan
 - Rolling table with shelf for bhajan books
