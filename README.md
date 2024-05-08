@@ -32,7 +32,15 @@ We are requested to build a smaller peetham with the following dimensions:
 - Thickness of peetham platform (not including unistrut lifting system) - No estimate yet
 - Total height - Adjustable from 12 inches to 17.5 inches.
 
+Height of peetham should be adjustable to anywhere within the range, rather than at certain "stops".
+
 Currently we are considering using actuators to raise and lower the peetham. This seems preferable to the other options: hydraulics or mechanical crank and gear systems (see photos in archives).
+
+Amma's attendants request that the height of the peetham should be adjustable using a remote. Further they request extra remotes (4 for each lifting system) so that hopefully not all of them get lost or misplaced.
+
+One suggestion (for an easier design and build) is that the peetham might move forward or backward a few inches when it is raised or lowered. There is no official approval or disapproval of this idea, but approval seems unlikely.
+
+The actuators may be noisy but we don't yet know how noisy. It may be possible to muffle the noise.
 
 </details>
 
@@ -44,6 +52,8 @@ Currently we are considering using actuators to raise and lower the peetham. Thi
 ---
 
 We need the same type of lifting system for adjusting the height of Amma's chair during darshan. It would probably be much the same as the system for the peetham as described above.
+
+The height and other specifications will be posted here soon.
 
 </details>
 
