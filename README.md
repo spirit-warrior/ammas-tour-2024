@@ -34,9 +34,14 @@ The new peetham should have the following dimensions:
 
 Height of peetham should be adjustable to anywhere within the range, rather than only at certain "stops".
 
-We are considering using actuators to raise and lower the peetham. This can probably be built in the time available. So far, the other options are hydraulics or mechanical crank and gear systems (see photos in archives).
+We are considering using actuators to raise and lower the peetham. An example of actuator lifting system is shown in later section of this doc -
 
-[Link to place that sells actuators](https://www.linak.com/products/linear-actuators)
+- [See Archives - Actuator lifting system, Thailand](#photo-archives---lifting-systems)
+- [Link to place that sells actuators](https://www.linak.com/products/linear-actuators)
+
+So far, the only known alternative is a mechanical crank and gear system as shown later in this doc -
+
+- [See Archives - Mechanical lifting system, Amritapuri](#photo-archives---lifting-systems)
 
 Amma's attendants request that the height of the peetham should be adjustable using a remote. Further they request extra remotes (4 for each lifting system) so that hopefully not all of them get lost or misplaced.
 
@@ -88,16 +93,20 @@ Wind curtain extension - Explain me
 
 ---
 
-We need the same type of lifting system for adjusting the height of Amma's chair during darshan. It would probably be much the same as the system for the peetham as described above.
+We need a similar lifting system for adjusting the height of Amma's chair during darshan. If possible, it should be much the same as the system for the peetham.
 
-The height and other specifications will be posted here soon. It seems there will be enough room under the chair for the lifting system, more room than under the peetham.
+The height and other specifications will be posted here soon. The space under the chair is differs greatly from the space under the peetham. So the design may need to be quite different.
 
 </details>
 
 ---
 
+## Photo Archives - Lifting systems
+
+---
+
 <details>
-<summary><b>Archives - Photos of Mechanical Lifting System - Amritapuri</b></summary>
+<summary><b>Mechanical Lifting System - Amritapuri</b></summary>
 
 ---
 
@@ -296,7 +305,7 @@ Image 28
 
 <details>
 
-<summary><b>Archives - Photos of Hydraulic Lifting System - Thailand</b></summary>
+<summary><b>Actuator Lifting System - Thailand</b></summary>
 
 ---
 
