@@ -32,9 +32,9 @@ We are planning to build a smaller peetham with the following dimensions:
 - Thickness of peetham platform (not including unistrut lifting system) - No estimate yet
 - Total height - Adjustable from 12 inches to 17.5 inches.
 
-Height of peetham should be adjustable to anywhere within the range, rather than at certain "stops".
+Height of peetham should be adjustable to anywhere within the range, rather than only at certain "stops".
 
-Currently we are considering using actuators to raise and lower the peetham. This seems preferable to the other options: hydraulics or mechanical crank and gear systems (see photos in archives).
+Currently we are considering using actuators to raise and lower the peetham. This is probably preferable to the other options: hydraulics or mechanical crank and gear systems (see photos in archives).
 
 [Link to place that sells actuators](https://www.linak.com/products/linear-actuators)
 
@@ -42,7 +42,7 @@ Amma's attendants request that the height of the peetham should be adjustable us
 
 One suggestion (for an easier design and build) is that the peetham might move forward or backward a few inches when it is raised or lowered. There is no official approval or disapproval of this idea, but approval seems unlikely.
 
-The actuators may be noisy but we don't yet know how noisy. It may be possible to muffle the noise.
+The actuators may be noisy but we don't know how noisy. It may be possible to muffle the noise.
 
 </details>
 
@@ -295,7 +295,8 @@ System for raising Amma's chair automatically, used in Thailand.
 
 ---
 
-The prasad table should have system for adjusting height during darshan.
+- Dimensions - ???
+- should have system for adjusting height during darshan
 
 ![image ptA](/images/prasad_table_A_side.jpg)
 ![image ptB](/images/prasad_table_B_adjuster.jpg)
@@ -333,13 +334,18 @@ Height includes the wheels.
 
 ---
 
-Dimensions -
-
-- ???
+- Dimensions - ???
+- is on wheels
 
 ![image bt1](/images/clock_table_1.jpg)
 
-Look closely and you will see a small lamp attached to the table with a clip. During mediation when the lights are dim, the light shines on the clock so Amma can see the time.
+---
+
+Notice the small lamp attached to the table with a clip. During mediation when the lights are dim, the light shines on the clock, allowing Amma to see the time.
+
+Why do we need a separate clock table?
+
+Instead we could set the clock on the bhajan table during meditation. For illumination, we could have one or more small LED lights that are velcroed to the top of the clock. Or maybe we can find a clock with an illuminated face.
 
 ![image bt2](/images/clock_table_2.jpg)
 
@@ -353,10 +359,9 @@ Look closely and you will see a small lamp attached to the table with a clip. Du
 
 ---
 
-- Arm rests slide sideways
+- Each arm rests slides to the side
 - Height of arm rests is adjustable
-
-Decision item - Do the arm rests need be removable?
+- Do the arm rests need be removable?
 
 Click to view demo on YouTube -
 
@@ -382,17 +387,19 @@ Half moon cushion
 
 ---
 
-Soft back cushion
+Back cushion - soft version
 
 - Memory foam
 - 15 x 20 x 1.75 inches
 - Quantity needed - 2
+- On left in photo
 
-Firm back Cushion
+Back cushion - firm version
 
 - Firm foam
 - 21 x 12 x 2.5 inches
 - Quantity needed - 2
+- On right in photo
 
 ![image c2_n_3](/images/cushion_2_and_3_back.jpg)
 
@@ -409,6 +416,9 @@ Peetham arm rests
 ---
 
 Peetham arm rest with additional cushion on top
+
+- Dimensions of additional cushion on top - ???
+- Is the additional cushion on top different from the back cushion firm version?
 
 ![image c5](/images/cushion_5_peetham_armrest_w_topper.jpg)
 
