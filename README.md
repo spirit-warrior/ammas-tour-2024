@@ -113,9 +113,15 @@ The height and other specifications will be posted here soon. The space under th
 
 ---
 
-## Photo Archives - Lifting systems
+</td>
+</tr>
+</table>
 
----
+## Photo Archives - Lifting Systems
+
+<table>
+<tr>
+<td>
 
 <details>
 <summary><b>Mechanical Lifting System - Amritapuri</b></summary>
@@ -351,10 +357,10 @@ System for raising Amma's chair automatically, used in Thailand.
 
 ---
 
+- Dimensions - to be determined
 - should have system for adjusting height during darshan
 - should have a range of adjustment that matches the changing height of the chair
-- more specifically, the height of prasad table should be adjustable so that the top of the table is even with the top of the arm rest of Amma's chair
-- Dimensions - to be determined
+- More specifically, height of prasad table should be adjustable so that the top of the table can be adjusted to be even with the top of arm rest of Amma's chair
 
 ![image ptA](/images/prasad_table_A_side.jpg)
 ![image ptB](/images/prasad_table_B_adjuster.jpg)
