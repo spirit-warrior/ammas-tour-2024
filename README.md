@@ -44,8 +44,6 @@ One suggestion (for an easier design and build) is that the peetham might move f
 
 The actuators may be noisy but we don't know how noisy. It may be possible to muffle the noise.
 
----
-
 </details>
 
 ---
@@ -463,7 +461,7 @@ Peetham arm rest with additional cushion on top
 
 Click to view demo on YouTube -
 
-[![click to view demo on YouTube](/images/video_icon.jpg)](https://youtu.be/pPd62WW21jU 'Adjustable arm rests')
+[![click to view demo on YouTube](/images/videos/video_icon.jpg)](https://youtu.be/pPd62WW21jU 'Adjustable arm rests')
 
 </details>
 
