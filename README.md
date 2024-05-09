@@ -332,6 +332,7 @@ System for raising Amma's chair automatically, used in Thailand.
 
 - should have system for adjusting height during darshan
 - should have a range of adjustment that matches the changing height of the chair
+- more specifically, the height of prasad table should be adjustable so that the top of the table is even with the top of the arm rest of Amma's chair
 - Dimensions - to be determined
 
 ![image ptA](/images/prasad_table_A_side.jpg)
