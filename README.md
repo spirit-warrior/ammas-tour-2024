@@ -25,7 +25,7 @@ The announcement has gone out that Amma is coming to North America in July 2024.
 
 ---
 
-We are requested to build a smaller peetham with the following dimensions:
+We are planning to build a smaller peetham with the following dimensions:
 
 - Width, side-to-side - 47 inches
 - Length, front-to-back - 34 inches
@@ -35,6 +35,8 @@ We are requested to build a smaller peetham with the following dimensions:
 Height of peetham should be adjustable to anywhere within the range, rather than at certain "stops".
 
 Currently we are considering using actuators to raise and lower the peetham. This seems preferable to the other options: hydraulics or mechanical crank and gear systems (see photos in archives).
+
+[Link to place that sells actuators](https://www.linak.com/products/linear-actuators)
 
 Amma's attendants request that the height of the peetham should be adjustable using a remote. Further they request extra remotes (4 for each lifting system) so that hopefully not all of them get lost or misplaced.
 
@@ -53,7 +55,7 @@ The actuators may be noisy but we don't yet know how noisy. It may be possible t
 
 We need the same type of lifting system for adjusting the height of Amma's chair during darshan. It would probably be much the same as the system for the peetham as described above.
 
-The height and other specifications will be posted here soon.
+The height and other specifications will be posted here soon. It seems there will be enough room under the chair for the lifting system, more room than under the peetham.
 
 </details>
 
@@ -289,16 +291,16 @@ System for raising Amma's chair automatically used in Thailand.
 
 <details>
 
-<summary><b>Darshan Table</b></summary>
+<summary><b>Prasad Table</b></summary>
 
 ---
 
-The darshan table should have system for adjusting height during darshan.
+The prasad table should have system for adjusting height during darshan.
 
-![image dtA](/images/darshan_table_A_side.jpg)
-![image dtB](/images/darshan_table_B_adjuster.jpg)
-![image dtC](/images/darshan_table_C_lifter.jpg)
-![image dtD](/images/darshan_table_D_by_chair.jpg)
+![image ptA](/images/prasad_table_A_side.jpg)
+![image ptB](/images/prasad_table_B_adjuster.jpg)
+![image ptC](/images/prasad_table_C_lifter.jpg)
+![image ptD](/images/prasad_table_D_by_chair.jpg)
 
 </details>
 
@@ -312,8 +314,14 @@ The darshan table should have system for adjusting height during darshan.
 
 This is the table that Amma beats with a stick during bhajans. The table has a groove on top where the stick is supposed to be.
 
-![image bt1](/images/bhajan_table_1_all.jpg)
-![image bt2](/images/bhajan_table_2_top_only.jpg)
+- 12.5 x 22 x 25.5 inches high
+
+Height includes the wheels.
+
+![image bt1](/images/bhajan_table_1_side.jpg)
+![image bt2](/images/bhajan_table_2_side.jpg)
+![image bt2](/images/bhajan_table_3_top_best.jpg)
+![image bt2](/images/bhajan_table_4_top.jpg)
 
 </details>
 
@@ -321,15 +329,38 @@ This is the table that Amma beats with a stick during bhajans. The table has a g
 
 <details>
 
-<summary><b>Sliding Armrests for Amma's Chair</b></summary>
+<summary><b>Clock table</b></summary>
 
 ---
 
-Arms need to slide sideways.
+Dimensions -
+
+- ???
+
+![image bt1](/images/clock_table_1.jpg)
+
+Look closely and you will see a small lamp attached to the table with a clip. During mediation when the lights are dim, the light shines on the clock so Amma can see the time.
+
+![image bt2](/images/clock_table_2.jpg)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Sliding Arm Rests for Amma's Chair</b></summary>
+
+---
+
+- Arm rests slide sideways
+- Height of arm rests is adjustable
 
 Decision item - Do the arm rests need be removable?
 
-There is a video on WhatsApp.
+Click to view demo on YouTube -
+
+[![click to view demo on YouTube](/images/video_icon.jpg)](https://youtu.be/pPd62WW21jU 'Video Title')
 
 </details>
 
@@ -341,7 +372,45 @@ There is a video on WhatsApp.
 
 ---
 
-- Foam "things" of different weight to make the columns on both sides of peetham
+Half moon cushion
+
+- Memory foam
+- 13 x 13 x 1.75 inches
+- Quantity needed - 2
+
+![image c1](/images/cushion_1_half_moon.jpg)
+
+---
+
+Soft back cushion
+
+- Memory foam
+- 15 x 20 x 1.75 inches
+- Quantity needed - 2
+
+Firm back Cushion
+
+- Firm foam
+- 21 x 12 x 2.5 inches
+- Quantity needed - 2
+
+![image c2_n_3](/images/cushion_2_and_3_back.jpg)
+
+---
+
+Peetham arm rests
+
+- should be weighted, 5 - 7 pounds
+- 12 x 20 x 8.5 height
+- There should be two arm rests, one for each side, right?
+
+![image c4](/images/cushion_4_peetham_armrest.jpg)
+
+---
+
+Peetham arm rest with additional cushion on top
+
+![image c5](/images/cushion_5_peetham_armrest_w_topper.jpg)
 
 </details>
 
@@ -353,10 +422,7 @@ There is a video on WhatsApp.
 
 ---
 
-- Updates coming soon
-- Table for gong for meditation
 - Ramps for standing darshan
-- Rolling table with shelf for bhajan books
 
 </details>
 
