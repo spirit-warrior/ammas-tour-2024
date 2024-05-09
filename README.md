@@ -40,9 +40,7 @@ We are considering using actuators to raise and lower the peetham. This can prob
 
 Amma's attendants request that the height of the peetham should be adjustable using a remote. Further they request extra remotes (4 for each lifting system) so that hopefully not all of them get lost or misplaced.
 
-One suggestion (for an easier design and build) is that the peetham might move forward or backward a few inches when it is raised or lowered. There is no official approval or disapproval of this idea, but approval seems unlikely.
-
-The actuators may be noisy but we don't know how noisy. It may be possible to muffle the noise.
+The actuators may be noisy. If so, it may be possible to muffle the noise.
 
 </details>
 
