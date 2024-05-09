@@ -265,7 +265,7 @@ Image 28
 
 ---
 
-System for raising Amma's chair automatically used in Thailand.
+System for raising Amma's chair automatically, used in Thailand.
 
 ![image hs1](/images/hydraulic_system_1_bottom.jpg)
 ![image hs2](/images/hydraulic_system_2_scale.jpg)
@@ -283,7 +283,7 @@ System for raising Amma's chair automatically used in Thailand.
 </tr>
 </table>
 
-## Other Projects - Easier
+## Other Projects
 
 <table>
 <tr>
@@ -360,7 +360,7 @@ Decision item - Do the arm rests need be removable?
 
 Click to view demo on YouTube -
 
-[![click to view demo on YouTube](/images/video_icon.jpg)](https://youtu.be/pPd62WW21jU 'Video Title')
+[![click to view demo on YouTube](/images/video_icon.jpg)](https://youtu.be/pPd62WW21jU 'Adjustable arm rests')
 
 </details>
 
@@ -418,11 +418,34 @@ Peetham arm rest with additional cushion on top
 
 <details>
 
-<summary><b>Other Possible Projects</b></summary>
+<summary><b>Equipment and Setup for Previous Tours - 2019</b></summary>
 
 ---
 
-- Ramps for standing darshan
+[Link to old (2019) info about Amma's tours of North America](https://github.com/cloudobserver/ammas-tour-info-2019/blob/master/README.md) including -
+
+- Darshan Setup
+- Amma's Chair - Dimensions
+- Amma's Chair - Technical Drawings and Sketches
+- Darshan Table
+- Chair Cushion and Foot Cushions
+- Chair Blocks
+- Zip Ties for Chair Blocks
+- Flower Basket for Amma's Chair
+- Amma's Peetham
+- Swami's Chair
+- Swami's Table
+- Amma's Bhajan Book Stand - 2006
+- Electrical Power
+- Stage Heater for Amma
+- Fans
+- Stage
+- Amma's Stairs
+- Stage carpets
+- Gaffers Tape and Taping the Stage
+- Amma's Side Room
+- Stage Lighting
+- Devi Bhava
 
 </details>
 
