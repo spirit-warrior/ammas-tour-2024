@@ -6,9 +6,15 @@
 
 <!-- Created this repo - March 31, 2024 -->
 
-It's official. Amma is coming to North America in July 2024. The plan is to go to all the cities, same as before, except not Dallas and not Atlanta. The order of cities is yet to be determined. The intention is to start the tour on July 1st and run into the middle of August. There will be retreats but no other details have been released.
+<details>
+
+<summary><b>Tour dates - to be determined</b></summary>
 
 ---
+
+It's official. Amma is coming to North America in July 2024. The plan is to go to all the cities, same as before, except not Dallas and not Atlanta. The order of cities is yet to be determined. The intention is to start the tour on July 1st and run into the middle of August. There will be retreats but no other details have been released.
+
+</details>
 
 </td>
 </tr>
@@ -113,26 +119,6 @@ For Amma's chair, we need to build a lifting system that is similar to the syste
 
 However the design needs to be different in that the space under the chair differs greatly from the space under the peetham.
 
-### Chair dimensions
-
-- Height - distance from floor to sitting surface
-
-  - In fully raised position - 8 inches
-  - In fully lowered position - 23 inches
-
-- Dimensions of sitting surface
-  - Width side-to-side - 23 inches
-  - Depth front-to-back - 22 inches
-
-### Arm rest dimensions
-
-- From sitting surface to top of arm rest - 7 inches
-- Width of arm rest, side-to-side - 8 inches
-
-- Height - distance from floor to top of arm rest (measured on side of chair) - 24.5 inches
-
-All measurements include the upholstery
-
 </details>
 
 ---
@@ -144,7 +130,7 @@ All measurements include the upholstery
 
 Amma's chair for North America looks completely different but we need to be sure the important measurements are the same as Amma's chair in Amritapuri.
 
-### Dimensions - Amma's Chair in Amritapuri
+### Dimensions - Amma's Chair, Amritapuri
 
 - Height - distance from floor to sitting surface
 
