@@ -66,7 +66,7 @@ So far, the only alternative to actuator system is a mechanical crank and gear s
 ---
 
 <details>
-<summary><b>Photos of Amma's Peetham in Amritapuri</b></summary>
+<summary><b>Amma's Peetham in Amritapuri - Photos</b></summary>
 
 ---
 
@@ -86,30 +86,102 @@ Peetham in fully lowered position
 
 ---
 
-### Peetham with Wind Curtain
+### Peetham with Wind Cushion
 
-![image p5](/images/peetham_main_photos/peetham_wind_curtain_1.jpg)
-![image p6](/images/peetham_main_photos/peetham_wind_curtain_2.jpg)
-![image p7](/images/peetham_main_photos/peetham_wind_curtain_3.jpg)
+![image p5](/images/peetham_main_photos/peetham_wind_cushion_1.jpg)
+![image p6](/images/peetham_main_photos/peetham_wind_cushion_2.jpg)
+![image p7](/images/peetham_main_photos/peetham_wind_cushion_3.jpg)
 
 ---
 
-Wind curtain extension - Explain me
+Wind cushion extension - Explain me
 
-![image p7](/images/peetham_main_photos/peetham_wind_curtain_4.jpg)
+![image p7](/images/peetham_main_photos/peetham_wind_cushion_4.jpg)
 
 </details>
 
 ---
 
 <details>
-<summary><b>Lifting System for Amma's Chair</b></summary>
+<summary><b>Changes to Amma's Chair for 2024</b></summary>
 
 ---
 
-We need a similar lifting system for adjusting the height of Amma's chair during darshan. If possible, it should be much the same as the system for the peetham.
+### Lifting system
 
-The height and other specifications will be posted here soon. The space under the chair is differs greatly from the space under the peetham. So the design may need to be quite different.
+For Amma's chair, we need to build a lifting system that is similar to the system for the peetham.
+
+However the design needs to be different in that the space under the chair differs greatly from the space under the peetham.
+
+### Chair dimensions
+
+- Height - distance from floor to sitting surface
+
+  - In fully raised position - 8 inches
+  - In fully lowered position - 23 inches
+
+- Dimensions of sitting surface
+  - Width side-to-side - 23 inches
+  - Depth front-to-back - 22 inches
+
+### Arm rest dimensions
+
+- From sitting surface to top of arm rest - 7 inches
+- Width of arm rest, side-to-side - 8 inches
+
+- Height - distance from floor to top of arm rest (measured on side of chair) - 24.5 inches
+
+All measurements include the upholstery
+
+</details>
+
+---
+
+<details>
+<summary><b>Amma's Chair in Amritapuri - Photos and Notes</b></summary>
+
+---
+
+Amma's chair for North America looks completely different but we need to be sure the important measurements are the same as Amma's chair in Amritapuri.
+
+### Dimensions - Amma's Chair in Amritapuri
+
+- Height - distance from floor to sitting surface
+
+  - In fully raised position - 8 inches
+  - In fully lowered position - 23 inches
+
+- Dimensions of sitting surface
+  - Width side-to-side - 23 inches
+  - Depth front-to-back - 22 inches
+
+### Dimensions - Arm Rests, Amritapuri
+
+- From sitting surface to top of arm rest - 7 inches
+- Width of arm rest, side-to-side - 8 inches
+
+- Height - distance from floor to top of arm rest (measured on side of chair) - 24.5 inches
+
+All measurements include the upholstery
+
+---
+
+Amma's Chair, Amritapuri - fully raised position
+
+![image 2](/images/chair_1_raised.jpg)
+
+---
+
+Amma's Chair, Amritapuri - fully lowered position
+
+![image 2](/images/chair_2_lowered.jpg)
+
+---
+
+Arm rests - Amma's Chair, Amritapuri
+
+![image 2](/images/chair_3_armrest_top.jpg)
+![image 2](/images/chair_4_armrest_front.jpg)
 
 </details>
 
@@ -355,19 +427,44 @@ System for raising Amma's chair automatically, used in Thailand.
 
 <details>
 
+<summary><b>Satsang Table</b></summary>
+
+---
+
+An adjustable table for people giving satsang
+
+- Dimensions - to be determined
+
+![Image coming soon](/images/satsang_table_A_side.jpg)
+
+</details>
+
+---
+
+<details>
+
 <summary><b>Prasad Table</b></summary>
 
 ---
 
-- Dimensions - to be determined
-- should have system for adjusting height during darshan
-- should have a range of adjustment that matches the changing height of the chair
-- More specifically, height of prasad table should be adjustable so that the top of the table can be adjusted to be even with the top of arm rest of Amma's chair
+- 22 inches long x 12 inches wide
+- Height
+  - Adjustable from 22 to 27 inches
+  - can be adjusted during darshan
+  - May not need to go as low as 22 inches
 
 ![image ptA](/images/prasad_table_A_side.jpg)
 ![image ptB](/images/prasad_table_B_adjuster.jpg)
 ![image ptC](/images/prasad_table_C_lifter.jpg)
+
+---
+
+Height should be adjustable so top of table can be even with the top of the arm rest of Amma's chair
+
+![image ptD](/images/prasad_table_E_with_chair.jpg)
 ![image ptD](/images/prasad_table_D_by_chair.jpg)
+![image ptD](/images/prasad_table_F_front.jpg)
+![image ptD](/images/prasad_table_G_back.jpg)
 
 </details>
 
@@ -381,8 +478,8 @@ System for raising Amma's chair automatically, used in Thailand.
 
 This is the table that Amma beats with a stick during bhajans.
 
-- The top surface is hardwood to withstand beatings from stick
-- The top surface has a groove for the stick so it won't roll away
+- Top surface is hardwood to withstand beatings from stick
+- Top surface has a groove for the stick so it won't roll away
 - 12.5 x 22 x 25.5 inches high
 - Height includes the wheels
 
@@ -401,16 +498,16 @@ This is the table that Amma beats with a stick during bhajans.
 
 ---
 
-- Dimensions - ???
-- is on wheels
+- 10 x 10 x 20 inches high
+- Height includes the wheels
 
-![image bt1](/images/clock_table_1.jpg)
+![image ct1](/images/clock_table_1.jpg)
 
 ---
 
 Notice the small lamp attached to the table with a clip. During mediation when the lights are dim, the light shines on the clock, allowing Amma to see the time.
 
-![image bt2](/images/clock_table_2.jpg)
+![image ct2](/images/clock_table_2.jpg)
 
 </details>
 
