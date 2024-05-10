@@ -124,11 +124,11 @@ However the design needs to be different in that the space under the chair diffe
 ---
 
 <details>
-<summary><b>Amma's Chair in Amritapuri - Photos and Notes</b></summary>
+<summary><b>Amma's Chair in Amritapuri - Notes and Photos</b></summary>
 
 ---
 
-Amma's chair for North America looks completely different but we need to be sure the important measurements are the same as Amma's chair in Amritapuri.
+When modifying Amma's chair for the North American tour, in the end, the important measurements should be the same as for Amma's chair in Amritapuri.
 
 ### Dimensions - Amma's Chair, Amritapuri
 
