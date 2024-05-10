@@ -30,8 +30,10 @@ The new peetham should meet the following specifications:
 - Width, side-to-side - 50 inches
 - Length, front-to-back - 35 inches
 - Thickness of peetham platform (not including unistrut lifting system) - No estimate yet
-- Total height - Adjustable from 12 inches to 19 inches.
-- Height of peetham should be adjustable to anywhere within the range, rather than only at certain "stops".
+- Total height
+  - Adjustable from 12 inches to 19 inches
+  - Total height should be absolute minimum
+- Height of peetham should be adjustable to anywhere within the range, rather than only at certain "stops"
 - If system relies on a remote, there should extra remotes (4 for each lifting system) because we need absolute reliability
 
 We are considering using actuators to raise and lower the peetham.
@@ -407,10 +409,6 @@ This is the table that Amma beats with a stick during bhajans.
 ---
 
 Notice the small lamp attached to the table with a clip. During mediation when the lights are dim, the light shines on the clock, allowing Amma to see the time.
-
-Why do we need a separate clock table?
-
-Instead we could set the clock on the bhajan table during meditation. For illumination, we could have one or more small LED lights that are velcroed to the top of the clock. Or maybe we can find a clock with an illuminated face.
 
 ![image bt2](/images/clock_table_2.jpg)
 
