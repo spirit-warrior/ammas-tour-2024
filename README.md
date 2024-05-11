@@ -134,8 +134,8 @@ When modifying Amma's chair for the North American tour, in the end, the importa
 
 - Height - distance from floor to sitting surface
 
-  - In fully raised position - 8 inches
-  - In fully lowered position - 23 inches
+  - In fully lowered position - 18 inches
+  - In fully raised position - 23 inches
 
 - Dimensions of sitting surface
   - Width side-to-side - 23 inches
