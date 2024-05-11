@@ -439,6 +439,12 @@ An adjustable table for people giving satsang
   - can be adjusted during darshan
   - May not need to go as low as 22 inches
 
+An important features of the old prasad table are the magnets embedded in the top surface that hold the prasad tray and sandalwood paste container from sliding around. We need to duplicate this on the new prasad table.
+
+Photos of embedded magnets coming (not very) soon!
+
+---
+
 ![image ptA](/images/prasad_table_A_side.jpg)
 ![image ptB](/images/prasad_table_B_adjuster.jpg)
 ![image ptC](/images/prasad_table_C_lifter.jpg)
