@@ -12,7 +12,16 @@
 
 ---
 
-It's official. Amma is coming to North America in July 2024. The plan is to go to all the cities, same as before, except not Dallas and not Atlanta. The order of cities is yet to be determined. The intention is to start the tour on July 1st and run into the middle of August. There will be retreats but no other details have been released.
+It's official. Amma is coming to North America in July 2024.
+
+- Target date for first program - July 1st
+- Going to all the cities, including Toronto, but not Dallas or Atlanta
+- The order of cities is yet to be determined
+- Four retreats
+  - San Ramon
+  - Los Angeles
+  - New Mexico
+  - Toronto
 
 </details>
 
@@ -31,14 +40,15 @@ It's official. Amma is coming to North America in July 2024. The plan is to go t
 
 ---
 
-The new peetham should meet the following specifications:
+We may decide to modify the old peethm or (more likely) build a new one. The new (or rebuilt) peetham should meet the following specifications:
 
 - Width, side-to-side - 50 inches
 - Length, front-to-back - 35 inches
 - Thickness of peetham platform (not including unistrut lifting system) - No estimate yet
 - Total height
   - Adjustable from 12 inches to 19 inches
-  - Total height should be absolute minimum
+  - Construct peetham with the aim of keeping
+  - Minimum height of peetham should be as low as technically possible
 - Height of peetham should be adjustable to anywhere within the range, rather than only at certain "stops"
 - If system relies on a remote, there should extra remotes (4 for each lifting system) because we need absolute reliability
 
@@ -49,7 +59,7 @@ We are considering using actuators to raise and lower the peetham.
   - Minimum height of electric platform - 8"
   - Maximum height of electric platform - 26"
   - Base of electric platform is 16" by 29". So we would have to screw it to a wider base board to provide stability.
-  - It lifts 150 kilograms or 330 lb. However it may be impossible to control the number of kids that climb on.
+  - It lifts 150 kg or 330 lb. However it may be impossible to control the number of kids that climb on.
   - The weight should probably be more or less centered on the platform rather than all on one edge
   - Given the minimum height of the electric platform (8 inches), the thickness of the peetham platform (attached on top) should not exceed 4 inches so that we meet requirement for total height in lowered position of 12 inches.
   - There are three ways to adjust the height -
