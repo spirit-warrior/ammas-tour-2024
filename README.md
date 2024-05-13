@@ -8,7 +8,7 @@
 
 <details>
 
-<summary><b>Tour dates - to be determined</b></summary>
+<summary><b>Tour dates - To be determined</b></summary>
 
 ---
 
@@ -434,52 +434,6 @@ System for raising Amma's chair automatically, used in Thailand.
 
 <details>
 
-<summary><b>Satsang Table</b></summary>
-
----
-
-Adjustable folding table for people giving satsang
-
-- Approximate dimensions
-  - Length - 25 inches
-  - Width - 18 inches
-  - Height - 28 inches, adjustable
-
-Suggest purchasing an adjustable computer table from IKEA
-
-- preferably aluminum
-- folds up for transport
-
-![Image coming soon](/images/satsang_table_A_side.jpg)
-
-</details>
-
----
-
-<details>
-
-<summary><b>Satsang Stools</b></summary>
-
----
-
-Shorter stool
-
-- Top - 14 x 14 inches
-- Height - 14 inches
-
-Taller stool
-
-- Top - 16 x 16 inches
-- Height - 18 inches
-
-Waiting for photos and more instructions
-
-</details>
-
----
-
-<details>
-
 <summary><b>Prasad Table</b></summary>
 
 ---
@@ -551,6 +505,52 @@ This is the table that Amma beats with a stick during bhajans.
 Notice the small lamp attached to the table with a clip. During mediation when the lights are dim, the light shines on the clock, allowing Amma to see the time.
 
 ![image ct2](/images/clock_table_2.jpg)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Satsang Table</b></summary>
+
+---
+
+Adjustable folding table for people giving satsang
+
+- Approximate dimensions
+  - Length - 25 inches
+  - Width - 18 inches
+  - Height - 28 inches, adjustable
+
+Suggest purchasing an adjustable computer table from IKEA
+
+- preferably aluminum
+- folds up for transport
+
+![Image coming soon](/images/satsang_table_A_side.jpg)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Satsang Stools</b></summary>
+
+---
+
+Shorter stool
+
+- Top - 14 x 14 inches
+- Height - 14 inches
+
+Taller stool
+
+- Top - 16 x 16 inches
+- Height - 18 inches
+
+Waiting for photos and more instructions
 
 </details>
 
