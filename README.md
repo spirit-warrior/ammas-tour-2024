@@ -444,7 +444,7 @@ System for raising Amma's chair automatically, used in Thailand.
   - can be adjusted during darshan
   - May not need to go as low as 22 inches
 
-An important features of the old prasad table are the magnets embedded in the top surface that hold the prasad tray and sandalwood paste container from sliding around. We need to duplicate this on the new prasad table.
+An important feature of our prasad table in N. America is that magnets are embedded in the top surface. These magnets hold the prasad tray and sandalwood paste container from sliding around. We need to duplicate this on the new prasad table.
 
 Photos of embedded magnets coming (not very) soon!
 
