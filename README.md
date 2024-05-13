@@ -51,30 +51,76 @@ We may decide to modify the old peethm or build a new one. The new (or rebuilt) 
 - Height of peetham should be adjustable to anywhere within the range, rather than only at certain "stops"
 - If system relies on a remote, there should extra remotes (4 for each lifting system) because we need absolute reliability
 
-We are considering using actuators to raise and lower the peetham.
+</details>
 
-- [Link to electric lifting platform on Ebay - Select Model for 150 kg](https://www.ebay.com/itm/235250797536)
+---
 
-  - Minimum height of electric platform - 8"
-  - Maximum height of electric platform - 26"
-  - Base of electric platform is 16" by 29". So we would have to screw it to a wider base board to provide stability.
-  - It lifts 150 kg or 330 lb. However it may be impossible to control the number of kids that climb on.
+<details>
+
+<summary><b>Lifting Systems - Research</b></summary>
+
+---
+
+#### Preferred Option - Actuator Lifting System
+
+The most powerful lifting table we have found that uses actuators is the [DHLCT-150 electric lifting platform - 150 kg Model](https://www.ebay.com/itm/235250797536)
+
+- Weight - 35 lb
+- Minimum height of electric platform - 8"
+- Maximum height of electric platform - 26"
+- Lifting capacity - 150 kg / 330 lb
+- Minimum height of electric platform including base - 8.5"
+  - Base of electric platform is 16" by 29"
+  - We should screw it to a wider base board (thickness 1/2 inch) for stability.
+- There are three ways to adjust the height -
+  - A wired switch
+  - Using wifi and smartphone app
+  - Remote control - We can probably buy extra remotes
+
+#### Actuator Lifting System - Analysis
+
+- Meets height requirements for peetham
+  - Maximum height of peetham in lowered position - 12 inches
+  - Subtracting the minimum height of the electric platform (8.5 inches) from the maximum total height of the peetham, we have left 3.5 inches for the thickness of the peetham platform that is attached on top.
+  - We should ask Hansa if 3.5 inches is enough
+- Meets height and other requirements for chair
+  - I think so but need to confirm when I get to San Ramon
+- Weight is not much
+  - Given the weight of the electric platform (35 lb), the total weight should be manageable for both the peetham and the chair
+- Lifting capacity
+  - 350 lbs
+  - This lifting capacity seems sufficient for lifting Amma and a couple of small kids. Amma's chair probably won't exceed the weight limit. But what about Amma's peetham?
+  - How can we prevent accidental overloading of the lifting system?
+  - For more lifting capacity, it might be possible to use two of these lifting tables side by side
+- Weight distribution
   - The weight should probably be more or less centered on the platform rather than all on one edge
-  - Given the minimum height of the electric platform (8 inches), the thickness of the peetham platform (attached on top) should not exceed 4 inches so that we meet requirement for total height in lowered position of 12 inches.
-  - There are three ways to adjust the height -
-    - A wired switch
-    - Using wifi and smartphone app
-    - Remote control - We can probably buy extra remotes
+  - For Amma's chair, the weight will be mostly on the front of the chair
+  - For Amma's peetham, Amma will most likely sit on the front edge of the peetham at times
+  - It's hard to anticipate how much of a problem this might be
 
-- [Link to place that sells actuators](https://www.linak.com/products/linear-actuators)
+---
 
 The actuator lifting system used in Thailand is shown later in this doc -
 
 - [See Archives - Actuator lifting system, Thailand](#photo-archives---lifting-systems)
 
-So far, the only alternative to actuator system is a mechanical crank and gear system as shown later in this doc -
+---
+
+#### Mechanical Lifting System
+
+So far, the only viable alternative to actuator system is a mechanical crank and gear system as shown later in this doc -
 
 - [See Archives - Mechanical lifting system, Amritapuri](#photo-archives---lifting-systems)
+
+This is a good option but the consensus is that it takes a long time to build, too long.
+
+---
+
+#### Hydraulic Lifting System
+
+Hydraulic lifting tables are available that are larger and can lift a thousand or more pounds. However, hydraulic systems are heavy. The lightest hydraulic system weighs about 350 lb and costs several thousand dollars. It would be heavy to move around on the stage.
+
+The hydraulic systems are not recommended because of the high cost and the difficulty of moving the heavy systems around.
 
 </details>
 
@@ -124,7 +170,7 @@ Wind cushion extension - Explain me
 
 ### Adjustable arm rests for Amma's chair
 
-Modify chair so that arm rest height is adjustable
+Modify chair so that height of arm rest is adjustable
 
 ---
 
@@ -132,7 +178,7 @@ Modify chair so that arm rest height is adjustable
 
 For Amma's chair, we need to build a lifting system that is similar to the system for the peetham.
 
-However the design needs to be different in that the space under the chair differs greatly from the space under the peetham.
+However, the system must be configured to fit into the space under Amma's chair.
 
 </details>
 
