@@ -40,14 +40,13 @@ It's official. Amma is coming to North America in July 2024.
 
 ---
 
-We may decide to modify the old peethm or (more likely) build a new one. The new (or rebuilt) peetham should meet the following specifications:
+We may decide to modify the old peethm or build a new one. The new (or rebuilt) peetham should meet the following specifications -
 
-- Width, side-to-side - 50 inches
-- Length, front-to-back - 35 inches
-- Thickness of peetham platform (not including unistrut lifting system) - No estimate yet
+- Width, side-to-side - 50 inches (not final, being reviewed)
+- Length, front-to-back - 35 inches (not final, being reviewed)
+- Thickness of peetham platform (not including lifting system) - No estimate yet
 - Total height
   - Adjustable from 12 inches to 19 inches
-  - Construct peetham with the aim of keeping
   - Minimum height of peetham should be as low as technically possible
 - Height of peetham should be adjustable to anywhere within the range, rather than only at certain "stops"
 - If system relies on a remote, there should extra remotes (4 for each lifting system) because we need absolute reliability
@@ -123,7 +122,13 @@ Wind cushion extension - Explain me
 
 ---
 
-### Lifting system
+### Adjustable arm rests for Amma's chair
+
+Modify chair so that arm rest height is adjustable
+
+---
+
+### Lifting system for Amma's chair
 
 For Amma's chair, we need to build a lifting system that is similar to the system for the peetham.
 
@@ -162,22 +167,28 @@ All measurements include the upholstery
 
 ---
 
+Amma's Chair, Amritapuri
+
+![image ch1](/images/chair_5_dressed.jpg)
+
+---
+
 Amma's Chair, Amritapuri - fully raised position
 
-![image 2](/images/chair_1_raised.jpg)
+![image ch2](/images/chair_1_raised.jpg)
 
 ---
 
 Amma's Chair, Amritapuri - fully lowered position
 
-![image 2](/images/chair_2_lowered.jpg)
+![image ch3](/images/chair_2_lowered.jpg)
 
 ---
 
 Arm rests - Amma's Chair, Amritapuri
 
-![image 2](/images/chair_3_armrest_top.jpg)
-![image 2](/images/chair_4_armrest_front.jpg)
+![image ch5](/images/chair_3_armrest_top.jpg)
+![image ch6](/images/chair_4_armrest_front.jpg)
 
 </details>
 
@@ -427,11 +438,41 @@ System for raising Amma's chair automatically, used in Thailand.
 
 ---
 
-An adjustable table for people giving satsang
+Adjustable folding table for people giving satsang
 
-- Dimensions - to be determined
+- Approximate dimensions
+  - Length - 25 inches
+  - Width - 18 inches
+  - Height - 28 inches, adjustable
+
+Suggest purchasing an adjustable computer table from IKEA
+
+- preferably aluminum
+- folds up for transport
 
 ![Image coming soon](/images/satsang_table_A_side.jpg)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Satsang Stools</b></summary>
+
+---
+
+Shorter stool
+
+- Top - 14 x 14 inches
+- Height - 14 inches
+
+Taller stool
+
+- Top - 16 x 16 inches
+- Height - 18 inches
+
+Waiting for photos and more instructions
 
 </details>
 
@@ -474,7 +515,7 @@ Height should be adjustable so top of table can be even with the top of the arm 
 
 <details>
 
-<summary><b>Bhajan table</b></summary>
+<summary><b>Amma Bhajan Table</b></summary>
 
 ---
 
@@ -496,7 +537,7 @@ This is the table that Amma beats with a stick during bhajans.
 
 <details>
 
-<summary><b>Clock table</b></summary>
+<summary><b>Clock Table</b></summary>
 
 ---
 
@@ -517,7 +558,19 @@ Notice the small lamp attached to the table with a clip. During mediation when t
 
 <details>
 
-<summary><b>Foam Projects</b></summary>
+<summary><b>Swami Bhajan Tables</b></summary>
+
+---
+
+Waiting for instructions
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Cushions</b></summary>
 
 ---
 
@@ -562,9 +615,25 @@ Peetham arm rests
 Peetham arm rest with additional cushion on top
 
 - Dimensions of additional cushion on top - ???
-- Is the additional cushion on top different from the back cushion firm version?
 
 ![image c5](/images/cushion_5_peetham_armrest_w_topper.jpg)
+
+---
+
+Vertical side cushion
+
+- Vertical cushion to fill the space between the inside of the chair arms
+- One on each side
+- Shaped like upside down "L"
+- Vertical cushion 1 - 4 x 1 inch thick
+- Vertical cushion 2 - 2 x 2 inch thick
+- "Not to exceed 8 inches from front of the chair to 2 inches from the back of the chair seat" ??
+- More photos and/or sketches are needed
+- Length needs to be adjusted to match Amma's North America chair, probably 12 to 14 inches
+
+Cushion should be like the one sitting on the arm rest in this image except L-shaped
+
+![image ch1](/images/chair_5_dressed.jpg)
 
 </details>
 
