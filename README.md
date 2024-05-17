@@ -42,8 +42,8 @@ It's official. Amma is coming to North America in July 2024.
 
 We may decide to modify the old peethm or build a new one. The new (or rebuilt) peetham should meet the following specifications -
 
-- Width, side-to-side - 50 inches (not final, being reviewed)
-- Length, front-to-back - 35 inches (not final, being reviewed)
+- Width, side-to-side - 54 inches
+- Length, front-to-back - 37 inches
 - Thickness of peetham platform (not including lifting system) - No estimate yet
 - Total height
   - Adjustable from 12 inches to 19 inches
@@ -170,7 +170,8 @@ Wind cushion extension - Explain me
 
 ### Adjustable arm rests for Amma's chair
 
-Modify chair so that height of arm rest is adjustable
+- Modify chair so that height of arm rest is adjustable
+- Modify padding on the back of the arm rest so that an elastic band can go over the arm rest to hold chair cloth in place
 
 ---
 
@@ -179,6 +180,10 @@ Modify chair so that height of arm rest is adjustable
 For Amma's chair, we need to build a lifting system that is similar to the system for the peetham.
 
 However, the system must be configured to fit into the space under Amma's chair.
+
+#### Replace the strings that hold the back cushion
+
+- Use strings like the ones on the Michigan chair
 
 </details>
 
@@ -193,7 +198,7 @@ When modifying Amma's chair for the North American tour, in the end, the importa
 
 ### Dimensions - Amma's Chair, Amritapuri
 
-- Height - distance from floor to sitting surface
+- Height - distance from floor to surface of structure
 
   - In fully lowered position - 18 inches
   - In fully raised position - 23 inches
@@ -490,24 +495,44 @@ System for raising Amma's chair automatically, used in Thailand.
   - can be adjusted during darshan
   - May not need to go as low as 22 inches
 
-An important feature of our prasad table in N. America is that magnets are embedded in the top surface. These magnets hold the prasad tray and sandalwood paste container from sliding around. We need to duplicate this on the new prasad table.
+An important feature of our prasad table in N. America is that magnets are embedded in the top surface. These magnets hold the prasad tray and sandalwood paste container from sliding around. The magnets can be embedded in the new prasad table after it is built.
 
 Photos of embedded magnets coming (not very) soon!
 
----
+## ![image ptA](/images/prasad_table_A_side.jpg)
 
-![image ptA](/images/prasad_table_A_side.jpg)
+Notice there is a silver knob that is turned by hand to lower and raise the table. It has a latch to hold it at selected position.
+
 ![image ptB](/images/prasad_table_B_adjuster.jpg)
 ![image ptC](/images/prasad_table_C_lifter.jpg)
 
 ---
 
+![image ptD](/images/prasad_table_E_with_chair.jpg)
+
+---
+
 Height should be adjustable so top of table can be even with the top of the arm rest of Amma's chair
 
-![image ptD](/images/prasad_table_E_with_chair.jpg)
-![image ptD](/images/prasad_table_D_by_chair.jpg)
-![image ptD](/images/prasad_table_F_front.jpg)
-![image ptD](/images/prasad_table_G_back.jpg)
+![image ptE](/images/prasad_table_D_by_chair.jpg)
+![image ptF](/images/prasad_table_F_front.jpg)
+![image ptG](/images/prasad_table_G_back.jpg)
+
+---
+
+#### Prasad table side piece
+
+- Hinged and attached at bottom (?)
+- Length - 18 inches
+- Height - 8 inches
+
+We are requested to have this side piece on the new prasad table. When the side piece is folded out, it "serves as a barrier for the prasad area".
+
+However, I think it isn't helpful for our prasad area. We have never needed it before and it will just be in the way. We won't be able to easily fold it in or out because folding will be blocked by the prasad people sitting on chairs.
+
+![image ptH](/images/prasad_table_H_folded_out.jpg)
+![image ptI](/images/prasad_table_I_folded_out.jpg)
+![image ptJ](/images/prasad_table_J_folded_in.jpg)
 
 </details>
 
