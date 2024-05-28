@@ -40,87 +40,61 @@ It's official. Amma is coming to North America in July 2024.
 
 ---
 
-We may decide to modify the old peethm or build a new one. The new (or rebuilt) peetham should meet the following specifications -
-
 - Width, side-to-side - 54 inches
 - Length, front-to-back - 37 inches
-- Thickness of peetham platform (not including lifting system) - No estimate yet
-- Total height
+- Thickness of peetham plywood base - 0.75 in
+- Thickness of peetham top platform (not including padding) - No estimate yet
+- Total height (requested)
+
   - Adjustable from 12 inches to 19 inches
   - Minimum height of peetham should be as low as technically possible
-- Height of peetham should be adjustable to anywhere within the range, rather than only at certain "stops"
-- If system relies on a remote, there should extra remotes (4 for each lifting system) because we need absolute reliability
+
+- Minimum height of new peetham
+
+  - Minimum height of lifting column - 10.83 in
+  - Thickness of plywood base - 3/4 inch
+  - Thickness of plywood top platform - 3/4? 5/8?
+  - 10.83 + 0.75 + 0.75 = 12.33 inches
+  - Slightly exceeds requested height
+
+- Height of old peetham
+  - 2018 - 13.63 inches
+  - 2019 - 14.5 inches
 
 </details>
 
 ---
 
 <details>
-
-<summary><b>Lifting Systems - Research</b></summary>
+<summary><b>Lifting Columns and System - Specs</b></summary>
 
 ---
 
-#### Preferred Option - Actuator Lifting System
-
-The most powerful lifting table we have found that uses actuators is the [DHLCT-150 electric lifting platform - 150 kg Model](https://www.ebay.com/itm/235250797536)
-
-- Weight - 35 lb
-- Minimum height of electric platform - 8"
-- Maximum height of electric platform - 26"
-- Lifting capacity - 150 kg / 330 lb
-- Minimum height of electric platform including base - 8.5"
-  - Base of electric platform is 16" by 29"
-  - We should screw it to a wider base board (thickness 1/2 inch) for stability.
-- There are three ways to adjust the height -
-  - A wired switch
+- Minimum height - 10.83 in (275 mm)
+- Maximum height - 19.69 in (500 mm)
+- Stroke - 10.83 in
+- Load (one leg) - 264.55 lb (120 kg)
+- Load (four legs) - 1058.22 lb (480 kg)
+- Maximum load - 1200 N
+  - N (newton) is a unit of the force needed to accelerate a given mass
+- Speed
+  - 5 mm per second, 1 inch in 5 seconds
+  - 55 seconds to fully extend
+- Multiple ways to adjust the height
+  - Wired switch - Location to be determined
+  - Remote control - We are getting extra remotes (4 for each lifting system)
   - Using wifi and smartphone app
-  - Remote control - We can probably buy extra remotes
+  - Control panel? - may be possible but we want the controller secure from damage and tampering
 
-#### Actuator Lifting System - Analysis
+#### Programmable Settings
 
-- Meets height requirements for peetham
-  - Maximum height of peetham in lowered position - 12 inches
-  - Subtracting the minimum height of the electric platform (8.5 inches) from the maximum total height of the peetham, we have left 3.5 inches for the thickness of the peetham platform that is attached on top.
-  - We should ask Hansa if 3.5 inches is enough
-- Meets height and other requirements for chair
-  - I think so but need to confirm when I get to San Ramon
-- Weight is not much
-  - Given the weight of the electric platform (35 lb), the total weight should be manageable for both the peetham and the chair
-- Lifting capacity
-  - 350 lbs
-  - This lifting capacity seems sufficient for lifting Amma and a couple of small kids. Amma's chair probably won't exceed the weight limit. But what about Amma's peetham?
-  - How can we prevent accidental overloading of the lifting system?
-  - For more lifting capacity, it might be possible to use two of these lifting tables side by side
-- Weight distribution
-  - The weight should probably be more or less centered on the platform rather than all on one edge
-  - For Amma's chair, the weight will be mostly on the front of the chair
-  - For Amma's peetham, Amma will most likely sit on the front edge of the peetham at times
-  - It's hard to anticipate how much of a problem this might be
-
----
-
-The actuator lifting system used in Thailand is shown later in this doc -
-
-- [See Archives - Actuator lifting system, Thailand](#photo-archives---lifting-systems)
-
----
-
-#### Mechanical Lifting System
-
-So far, the only viable alternative to actuator system is a mechanical crank and gear system as shown later in this doc -
-
-- [See Archives - Mechanical lifting system, Amritapuri](#photo-archives---lifting-systems)
-
-This is a good option but the consensus is that it takes a long time to build, too long.
-
----
-
-#### Hydraulic Lifting System
-
-Hydraulic lifting tables are available that are larger and can lift a thousand or more pounds. However, hydraulic systems are heavy. The lightest hydraulic system weighs about 350 lb and costs several thousand dollars. It would be heavy to move around on the stage.
-
-The hydraulic systems are not recommended because of the high cost and the difficulty of moving the heavy systems around.
+- For peetham and chair
+  - Set lower height limit equal to lowest position - 10.83 in
+- Set stroke length (less than 10.83 in)
+  - Effectively sets maximum height
+  - for chair - ??
+  - for peetham - ??
+- For help with Error Codes - WeChat 8615669851253 for video calls
 
 </details>
 
@@ -220,26 +194,405 @@ All measurements include the upholstery
 
 Amma's Chair, Amritapuri
 
-![image ch1](/images/chair_5_dressed.jpg)
+![image ch1](/images/chair/chair_5_dressed.jpg)
 
 ---
 
 Amma's Chair, Amritapuri - fully raised position
 
-![image ch2](/images/chair_1_raised.jpg)
+![image ch2](/images/chair/chair_1_raised.jpg)
 
 ---
 
 Amma's Chair, Amritapuri - fully lowered position
 
-![image ch3](/images/chair_2_lowered.jpg)
+![image ch3](/images/chair/chair_2_lowered.jpg)
 
 ---
 
 Arm rests - Amma's Chair, Amritapuri
 
-![image ch5](/images/chair_3_armrest_top.jpg)
-![image ch6](/images/chair_4_armrest_front.jpg)
+![image ch5](/images/chair/chair_3_armrest_top.jpg)
+![image ch6](/images/chair/chair_4_armrest_front.jpg)
+
+</details>
+
+---
+
+</td>
+</tr>
+</table>
+
+## Other Projects
+
+<table>
+<tr>
+<td>
+
+<details>
+
+<summary><b>Standing Darshan Ramps</b></summary>
+
+---
+
+Warning - These calculations are only valid if stage height is 36 inches
+
+Calculate height of raised platform
+
+- Typical stage height, N. American tour - 36 inches
+- Distance of raised platform below stage - 20.75 inches
+- 36 - 20.75 = 15.25
+- Typical height of raised platform - 15.25 inches
+
+Calculate length of ramp -
+
+- Height of raised platform - 15.25 inches
+- Slope - 1:12
+- 15.25 x 12 = 183 inches aka 15 feet 3 inches
+- Length of ramp - at least 15.25 feet
+
+Virtually all venues in US must comply with ADA requirements (Americans with Disabilities Act). For ADA compliance, the slope for a wheelchair ramp must be no greater than 1:12 (one inch of rise for every 12 inches of ramp length).
+
+Raised platform
+
+- Width - 77 inches
+- Front to back - 49.5 inches
+- Height - 20.75 inches lower than the stage
+
+Dimensions of ramps
+
+- Width
+  - Center ramp - 77 inches
+  - Side ramps - 49.5 inches
+- Length - 15.25 feet
+- Height at high end - 15.25 inches
+- Slope - 1:12 or 8.33%
+
+![image sdA](/images/standing_darshan/standing_darshan_1.png)
+![image sdE](/images/standing_darshan/standing_darshan_6.png)
+
+---
+
+Planks - I don't get this
+
+For standing darshan, there need to be large planks to bring the people higher/closer to Amma as needed
+
+- 4 planks 30L x 25W x 2 height (inches)
+- 2 planks 30L x 25W x 1 height (inches)
+- covered with cheap carpet
+
+Photo of one plank
+
+![image sdB](/images/standing_darshan/standing_darshan_2.png)
+![image sdC](/images/standing_darshan/standing_darshan_3.png)
+
+---
+
+Wooden blocks
+
+One tall block and one short block -
+
+![image sdD](/images/standing_darshan/standing_darshan_4.png)
+![image sdE](/images/standing_darshan/standing_darshan_5.png)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Prasad Table</b></summary>
+
+---
+
+- 22 inches long x 12 inches wide
+- Height
+  - Adjustable from 22 to 27 inches
+  - can be adjusted during darshan
+  - May not need to go as low as 22 inches
+
+An important feature of our prasad table in N. America is that magnets are embedded in the top surface. These magnets hold the prasad tray and sandalwood paste container from sliding around. The magnets can be embedded in the new prasad table after it is built.
+
+Photos of embedded magnets coming (not very) soon!
+
+![image ptA](/images/prasad_table/prasad_table_A_side.jpg)
+
+Notice there is a silver knob that is turned by hand to lower and raise the table. It has a latch to hold it at selected position.
+
+![image ptB](/images/prasad_table/prasad_table_B_adjuster.jpg)
+![image ptC](/images/prasad_table/prasad_table_C_lifter.jpg)
+
+---
+
+![image ptD](/images/prasad_table/prasad_table_E_with_chair.jpg)
+
+---
+
+Height should be adjustable so top of table can be even with the top of the arm rest of Amma's chair
+
+![image ptE](/images/prasad_table/prasad_table_D_by_chair.jpg)
+![image ptF](/images/prasad_table/prasad_table_F_front.jpg)
+![image ptG](/images/prasad_table/prasad_table_G_back.jpg)
+
+---
+
+#### Prasad table side piece
+
+- Hinged and attached at bottom (?)
+- Length - 18 inches
+- Height - 8 inches
+
+We are requested to have this side piece on the new prasad table. When the side piece is folded out, it "serves as a barrier for the prasad area".
+
+However, I think it isn't helpful for our prasad area. We have never needed it before and it will just be in the way. We won't be able to easily fold it in or out because folding will be blocked by the prasad people sitting on chairs.
+
+![image ptH](/images/prasad_table/prasad_table_H_folded_out.jpg)
+![image ptI](/images/prasad_table/prasad_table_I_folded_out.jpg)
+![image ptJ](/images/prasad_table/prasad_table_J_folded_in.jpg)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Amma Bhajan Table</b></summary>
+
+---
+
+This is the table that Amma beats with a stick during bhajans.
+
+- Top surface is hardwood to withstand beatings from stick
+- Top surface has a groove for the stick so it won't roll away
+- 12.5 x 22 x 25.5 inches high
+- Height includes the wheels
+
+![image bt1](/images/bhajan_table_1_side.jpg)
+![image bt2](/images/bhajan_table_2_side.jpg)
+![image bt2](/images/bhajan_table_3_top_best.jpg)
+![image bt2](/images/bhajan_table_4_top.jpg)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Clock Table</b></summary>
+
+---
+
+- 10 x 10 x 20 inches high
+- Height includes the wheels
+
+![image ct1](/images/clock_table_1.jpg)
+
+---
+
+Notice the small lamp attached to the table with a clip. During mediation when the lights are dim, the light shines on the clock, allowing Amma to see the time.
+
+![image ct2](/images/clock_table_2.jpg)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Cushions</b></summary>
+
+---
+
+Half moon cushion
+
+- Memory foam
+- 13 x 13 x 1.75 inches
+- Quantity needed - 2
+
+![image c1](/images/cushion_1_half_moon.jpg)
+
+---
+
+Back cushion - Soft version
+
+- Memory foam
+- 15 x 20 x 1.75 inches
+- Quantity needed - 2
+- On left in photo
+
+Back cushion - Firm version
+
+- Firm foam
+- 21 x 12 x 2.5 inches
+- Quantity needed - 2
+- On right in photo
+
+![image c2_n_3](/images/cushion_2_and_3_back.jpg)
+
+---
+
+Peetham arm rests
+
+- should be weighted, 5 - 7 pounds
+- 12 x 20 x 8.5 height
+- Quantity needed - 2, one for each side, right?
+
+![image c4](/images/cushion_4_peetham_armrest.jpg)
+
+---
+
+Peetham arm rest has additional cushion on top
+
+- Visible in the image but they didn't mention it
+- Thickness - unknown
+- Length - 20 inches (to match peetham arm rest cushion?)
+- Width - 12 inches (to match peetham arm rest cushion?)
+
+![image c5](/images/cushion_5_peetham_armrest_w_topper.jpg)
+
+---
+
+About Vertical Side Cushions
+
+- Purpose - to fill the space between the inside of the chair arms
+- One on each side
+- Shaped like upside down "L"
+- Length "Not to exceed 8 inches from front of the chair to 2 inches from the back of the chair seat"
+- Length needs to be adjusted to match Amma's North America chair, probably 12 to 14 inches
+- Length - 14 inches per Chaitanyan
+- Height - "will need to be measured with the seat and back cushions in place".
+- Doesn't height depend on height of arm rests which are supposed to be adjustable?
+
+Vertical Side Cushion A
+
+- Thickness - 1 inch
+- Length - 14 inches
+- Height - needs to be decided
+- Quantity needed - 4? 2? they come in sets? one for each side? not clear
+
+Vertical Side Cushion B
+
+- Thickness - 2 inch
+- Length - 14 inches
+- Height - needs to be decided
+- Quantity needed - Probably 2? one for each side? not clear
+
+Cushion should be like the one sitting on the arm rest in this image except L-shaped
+
+![image ch1](/images/chair/chair_5_dressed.jpg)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Satsang Table</b></summary>
+
+---
+
+Adjustable folding table for people giving satsang
+
+- Approximate dimensions
+  - Length - 25 inches
+  - Width - 18 inches
+  - Height - 28 inches, adjustable
+
+Suggest purchasing an adjustable computer table from IKEA
+
+- preferably aluminum
+- folds up for transport
+
+![Image not available yet](/images/satsang_table_A_side.jpg)
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Satsang Stools</b></summary>
+
+---
+
+Shorter stool
+
+- Top - 14 x 14 inches
+- Height - 14 inches
+
+Taller stool
+
+- Top - 16 x 16 inches
+- Height - 18 inches
+
+Waiting for photos and more instructions
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Swami Bhajan Tables</b></summary>
+
+---
+
+Waiting for instructions
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Cancelled Projects</b></summary>
+
+---
+
+### Sliding Armrests for Amma's Chair
+
+- Each arm rest slides to the side
+- Height of arm rests is adjustable
+- Do the arm rests need be removable?
+
+Click to view demo on YouTube -
+
+[![click to view demo on YouTube](/images/videos/video_icon.jpg)](https://youtu.be/pPd62WW21jU 'Adjustable arm rests')
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Equipment and Setup for Previous Tours - 2019</b></summary>
+
+---
+
+[Link to old info (2019) about Amma's tours of North America](https://github.com/cloudobserver/ammas-tour-info-2019/blob/master/README.md) including -
+
+- Darshan Setup
+- Amma's Chair - Dimensions
+- Amma's Chair - Technical Drawings and Sketches
+- Darshan Table
+- Chair Cushion and Foot Cushions
+- Chair Blocks
+- Zip Ties for Chair Blocks
+- Flower Basket for Amma's Chair
+- Amma's Peetham
+- Swami's Chair
+- Swami's Table
+- Amma's Bhajan Book Stand - 2006
+- Electrical Power
+- Stage Heater for Amma
+- Fans
+- Stage
+- Amma's Stairs
+- Stage carpets
+- Gaffers Tape and Taping the Stage
+- Amma's Side Room
+- Stage Lighting
+- Devi Bhava
 
 </details>
 
@@ -469,297 +822,13 @@ System for raising Amma's chair automatically, used in Thailand.
 ![image hs6](/images/peetham_hydraulic_system/hydraulic_system_6_technicians.jpg)
 ![image hs7](/images/peetham_hydraulic_system/hydraulic_system_7_back_corner.jpg)
 
-</details>
-
 ---
 
-</td>
-</tr>
-</table>
+#### Hydraulic Lifting System
 
-## Other Projects
+Hydraulic lifting tables are available that are larger and can lift a thousand or more pounds. However, hydraulic systems are heavy. The lightest hydraulic system weighs about 350 lb and costs several thousand dollars.
 
-<table>
-<tr>
-<td>
-
-<details>
-
-<summary><b>Prasad Table</b></summary>
-
----
-
-- 22 inches long x 12 inches wide
-- Height
-  - Adjustable from 22 to 27 inches
-  - can be adjusted during darshan
-  - May not need to go as low as 22 inches
-
-An important feature of our prasad table in N. America is that magnets are embedded in the top surface. These magnets hold the prasad tray and sandalwood paste container from sliding around. The magnets can be embedded in the new prasad table after it is built.
-
-Photos of embedded magnets coming (not very) soon!
-
-## ![image ptA](/images/prasad_table_A_side.jpg)
-
-Notice there is a silver knob that is turned by hand to lower and raise the table. It has a latch to hold it at selected position.
-
-![image ptB](/images/prasad_table_B_adjuster.jpg)
-![image ptC](/images/prasad_table_C_lifter.jpg)
-
----
-
-![image ptD](/images/prasad_table_E_with_chair.jpg)
-
----
-
-Height should be adjustable so top of table can be even with the top of the arm rest of Amma's chair
-
-![image ptE](/images/prasad_table_D_by_chair.jpg)
-![image ptF](/images/prasad_table_F_front.jpg)
-![image ptG](/images/prasad_table_G_back.jpg)
-
----
-
-#### Prasad table side piece
-
-- Hinged and attached at bottom (?)
-- Length - 18 inches
-- Height - 8 inches
-
-We are requested to have this side piece on the new prasad table. When the side piece is folded out, it "serves as a barrier for the prasad area".
-
-However, I think it isn't helpful for our prasad area. We have never needed it before and it will just be in the way. We won't be able to easily fold it in or out because folding will be blocked by the prasad people sitting on chairs.
-
-![image ptH](/images/prasad_table_H_folded_out.jpg)
-![image ptI](/images/prasad_table_I_folded_out.jpg)
-![image ptJ](/images/prasad_table_J_folded_in.jpg)
-
-</details>
-
----
-
-<details>
-
-<summary><b>Amma Bhajan Table</b></summary>
-
----
-
-This is the table that Amma beats with a stick during bhajans.
-
-- Top surface is hardwood to withstand beatings from stick
-- Top surface has a groove for the stick so it won't roll away
-- 12.5 x 22 x 25.5 inches high
-- Height includes the wheels
-
-![image bt1](/images/bhajan_table_1_side.jpg)
-![image bt2](/images/bhajan_table_2_side.jpg)
-![image bt2](/images/bhajan_table_3_top_best.jpg)
-![image bt2](/images/bhajan_table_4_top.jpg)
-
-</details>
-
----
-
-<details>
-
-<summary><b>Clock Table</b></summary>
-
----
-
-- 10 x 10 x 20 inches high
-- Height includes the wheels
-
-![image ct1](/images/clock_table_1.jpg)
-
----
-
-Notice the small lamp attached to the table with a clip. During mediation when the lights are dim, the light shines on the clock, allowing Amma to see the time.
-
-![image ct2](/images/clock_table_2.jpg)
-
-</details>
-
----
-
-<details>
-
-<summary><b>Satsang Table</b></summary>
-
----
-
-Adjustable folding table for people giving satsang
-
-- Approximate dimensions
-  - Length - 25 inches
-  - Width - 18 inches
-  - Height - 28 inches, adjustable
-
-Suggest purchasing an adjustable computer table from IKEA
-
-- preferably aluminum
-- folds up for transport
-
-![Image coming soon](/images/satsang_table_A_side.jpg)
-
-</details>
-
----
-
-<details>
-
-<summary><b>Satsang Stools</b></summary>
-
----
-
-Shorter stool
-
-- Top - 14 x 14 inches
-- Height - 14 inches
-
-Taller stool
-
-- Top - 16 x 16 inches
-- Height - 18 inches
-
-Waiting for photos and more instructions
-
-</details>
-
----
-
-<details>
-
-<summary><b>Swami Bhajan Tables</b></summary>
-
----
-
-Waiting for instructions
-
-</details>
-
----
-
-<details>
-
-<summary><b>Cushions</b></summary>
-
----
-
-Half moon cushion
-
-- Memory foam
-- 13 x 13 x 1.75 inches
-- Quantity needed - 2
-
-![image c1](/images/cushion_1_half_moon.jpg)
-
----
-
-Back cushion - soft version
-
-- Memory foam
-- 15 x 20 x 1.75 inches
-- Quantity needed - 2
-- On left in photo
-
-Back cushion - firm version
-
-- Firm foam
-- 21 x 12 x 2.5 inches
-- Quantity needed - 2
-- On right in photo
-
-![image c2_n_3](/images/cushion_2_and_3_back.jpg)
-
----
-
-Peetham arm rests
-
-- should be weighted, 5 - 7 pounds
-- 12 x 20 x 8.5 height
-- There should be two arm rests, one for each side, right?
-
-![image c4](/images/cushion_4_peetham_armrest.jpg)
-
----
-
-Peetham arm rest with additional cushion on top
-
-- Dimensions of additional cushion on top - ???
-
-![image c5](/images/cushion_5_peetham_armrest_w_topper.jpg)
-
----
-
-Vertical side cushion
-
-- Vertical cushion to fill the space between the inside of the chair arms
-- One on each side
-- Shaped like upside down "L"
-- Vertical cushion 1 - 4 x 1 inch thick
-- Vertical cushion 2 - 2 x 2 inch thick
-- "Not to exceed 8 inches from front of the chair to 2 inches from the back of the chair seat" ??
-- More photos and/or sketches are needed
-- Length needs to be adjusted to match Amma's North America chair, probably 12 to 14 inches
-
-Cushion should be like the one sitting on the arm rest in this image except L-shaped
-
-![image ch1](/images/chair_5_dressed.jpg)
-
-</details>
-
----
-
-<details>
-
-<summary><b>Cancelled Projects</b></summary>
-
----
-
-### Sliding Armrests for Amma's Chair
-
-- Each arm rest slides to the side
-- Height of arm rests is adjustable
-- Do the arm rests need be removable?
-
-Click to view demo on YouTube -
-
-[![click to view demo on YouTube](/images/videos/video_icon.jpg)](https://youtu.be/pPd62WW21jU 'Adjustable arm rests')
-
-</details>
-
----
-
-<details>
-
-<summary><b>Equipment and Setup for Previous Tours - 2019</b></summary>
-
----
-
-[Link to old info (2019) about Amma's tours of North America](https://github.com/cloudobserver/ammas-tour-info-2019/blob/master/README.md) including -
-
-- Darshan Setup
-- Amma's Chair - Dimensions
-- Amma's Chair - Technical Drawings and Sketches
-- Darshan Table
-- Chair Cushion and Foot Cushions
-- Chair Blocks
-- Zip Ties for Chair Blocks
-- Flower Basket for Amma's Chair
-- Amma's Peetham
-- Swami's Chair
-- Swami's Table
-- Amma's Bhajan Book Stand - 2006
-- Electrical Power
-- Stage Heater for Amma
-- Fans
-- Stage
-- Amma's Stairs
-- Stage carpets
-- Gaffers Tape and Taping the Stage
-- Amma's Side Room
-- Stage Lighting
-- Devi Bhava
+The hydraulic systems are not recommended because of the high cost and the difficulty of moving the heavy systems around.
 
 </details>
 
