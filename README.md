@@ -70,9 +70,12 @@ It's official. Amma is coming to North America in July 2024.
 
 ---
 
+- Lifting columns model number - DHLCE-270A
 - Minimum height - 10.83 in (275 mm)
 - Maximum height - 19.69 in (500 mm)
 - Stroke - 10.83 in
+- Width of column - 5.67 in / 144 mm
+- Width of column base plate - 7.87 in / 200 mm
 - Load (one leg) - 264.55 lb (120 kg)
 - Load (four legs) - 1058.22 lb (480 kg)
 - Maximum load - 1200 N
@@ -84,7 +87,11 @@ It's official. Amma is coming to North America in July 2024.
   - Wired switch - Location to be determined
   - Remote control - We are getting extra remotes (4 for each lifting system)
   - Using wifi and smartphone app
-  - Control panel? - may be possible but we want the controller secure from damage and tampering
+- Control panel aka controller
+  - the display on control panel tells how far the columns are extended
+  - may allow adjustment capability
+  - protect from damage and tampering
+- Estimated weight of entire lifting system - 30 lb
 
 #### Programmable Settings
 
@@ -142,22 +149,41 @@ Wind cushion extension - Explain me
 
 ---
 
-### Adjustable arm rests for Amma's chair
+- Width, side-to-side - 42.875 inches / 47 7/8
+- Length, front-to-back - 25.5 inches
+- Thickness of plywood base - 0.75 in
+- Thickness of top platform (not including padding) - No estimate yet
+- Total height to surface of structure - (not including padding)
+- Adjustable from XX inches to XX inches
+
+#### Lifting system for Amma's chair
+
+Amma's chair will use the same lifting columns as for the peetham
+
+- DHLCE-270A
+
+#### Adjustable arm rests for Amma's chair
 
 - Modify chair so that height of arm rest is adjustable
 - Modify padding on the back of the arm rest so that an elastic band can go over the arm rest to hold chair cloth in place
 
----
-
-### Lifting system for Amma's chair
-
-For Amma's chair, we need to build a lifting system that is similar to the system for the peetham.
-
-However, the system must be configured to fit into the space under Amma's chair.
-
 #### Replace the strings that hold the back cushion
 
 - Use strings like the ones on the Michigan chair
+
+#### Notes from Paul
+
+- Surface of peetham and chair - 3/4" plywood
+- Base of peetham and chair - 3/4" plywood
+
+- New chair would have a plywood seat and a frame that wrapped around the plywood, covering the edge.
+- The frame extends below the plywood, providing a hiding place for controller and power supply.
+- Mount the lifting columns as close as possible to edge of platform
+- Corners of the frame should be miter cut and glued
+- No screws are visible
+- Round all exposed edges with a router.
+- The design should not impede Amma from swinging her feet under the chair.
+- Optional - backrest and armrests are removable for easier transport
 
 </details>
 
@@ -468,14 +494,14 @@ Vertical Side Cushion A
 - Thickness - 1 inch
 - Length - 14 inches
 - Height - needs to be decided
-- Quantity needed - 4? 2? they come in sets? one for each side? not clear
+- Quantity needed - 4? 2? they come in sets, one for each side? Do they want 2 sets, 4 cushions? not clear
 
 Vertical Side Cushion B
 
 - Thickness - 2 inch
 - Length - 14 inches
 - Height - needs to be decided
-- Quantity needed - Probably 2? one for each side? not clear
+- Quantity needed - 2 cushions? or 2 sets? Probably 1 set of 2 cushions, one for each side? not clear
 
 Cushion should be like the one sitting on the arm rest in this image except L-shaped
 
