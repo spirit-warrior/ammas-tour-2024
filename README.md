@@ -8,15 +8,14 @@
 
 <details>
 
-<summary><b>Tour dates - To be determined</b></summary>
+<summary><b>Tour dates - Not released yet</b></summary>
 
 ---
 
-It's official. Amma is coming to North America in July 2024.
-
 - Target date for first program - July 4th in Seattle
 - Going to all the cities, except not Dallas, Atlanta, and Toronto
-- We only know that Seattle is first, for the other cities, we don't know
+- Seattle is first
+- Chicago is last
 - Four retreats
   - San Ramon
   - Los Angeles
@@ -43,7 +42,9 @@ It's official. Amma is coming to North America in July 2024.
 
 ---
 
-Nothing here yet
+All about drug testing compliance
+
+[How to set up drug tests](/trucking/ePassport_guide_preferred_alliance.pdf)
 
 </details>
 
