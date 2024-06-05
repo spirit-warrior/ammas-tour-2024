@@ -14,16 +14,40 @@
 
 It's official. Amma is coming to North America in July 2024.
 
-- Target date for first program - July 1st
-- Going to all the cities, including Toronto, but not Dallas or Atlanta
-- The order of cities is yet to be determined
+- Target date for first program - July 4th in Seattle
+- Going to all the cities, except not Dallas, Atlanta, and Toronto
+- We only know that Seattle is first, for the other cities, we don't know
 - Four retreats
   - San Ramon
   - Los Angeles
   - New Mexico
-  - Toronto
+  - ???
 
 </details>
+
+---
+
+</td>
+</tr>
+</table>
+
+## MA Center Trucking
+
+<table>
+<tr>
+<td>
+
+<details>
+
+<summary><b>Various links and documents</b></summary>
+
+---
+
+Nothing here yet
+
+</details>
+
+---
 
 </td>
 </tr>
@@ -36,17 +60,123 @@ It's official. Amma is coming to North America in July 2024.
 <td>
 
 <details>
+<summary><b>Lifting Columns and System - Specs</b></summary>
+
+---
+
+- Lifting columns model number - DHLCE-270A
+- Estimated weight of entire lifting system - 30 lb
+- Minimum height - 10.83 in (275 mm) / (10 27/32 in) / (10 13/16 in)
+- Maximum height - 19.69 in (500 mm) conflicting info 21.65 in (550 mm)
+- Stroke - 10.83 in
+- Width of column - 5.67 in / 144 mm / (5 11/16 in)
+- Width of column base plate - 7.87 in / 200 mm / (7 7/8 in)
+- Thickness of column base plate - 10 mm / 3/8 in
+- Load (one leg) - 264.55 lb (120 kg)
+- Load (four legs) - 1058.22 lb (480 kg)
+- Maximum load - 1200 N
+  - N (newton) is a unit of the force needed to accelerate a given mass
+- Speed
+  - 5 mm per second, 1 inch in 5 seconds
+  - 55 seconds to fully extend
+  - 40 seconds to lift from 12" to 20"
+- Multiple ways to adjust the height
+  - Wired switch - in a protected location, where you can use it by feel
+  - Remote control - Four remotes for each lifting system
+  - Using wifi and smartphone app (maybe)
+- Control panel aka controller
+
+  - the up/down arrows are for setting height limits, etc
+  - may allow adjusting height (raise and lower)
+  - the display tells how far the columns are currently extended
+  - protect from damage and tampering
+
+- Momentary contact switches
+  - The most intuitive switch is a wired momentary contact switch which only moves while you press and hold the switch. DIHOOL sells a rocker switch (without a cord or case) but it might not be a momentary contact switch. Fortunately, we can buy momentary contact switches and wire them ourselves
+  - Ideally this switch should be in a small box.
+
+#### Installation
+
+- Install the lifting columns so that the electrical connections are at the top, under the platform, rather than near the base. The columns can be installed with either side up.
+- Attach the controller, power supply and control panel. Most of it just plugs together. A few wires require screwing to a screw terminal.
+- Plug it to 120 volts and it should work.
+- Best to connect all the components and test them before fastening down the wires
+- Then decide the best location for everything
+
+- Location of control panel - TBD
+
+  - display should be visible from somewhere so a specific height can be set
+
+- Optional - Extra rocker switches that Paul is mounting on a panel or in a box
+- No loose wires
+
+  - Use wire tie downs
+  - Don't use staples because they can cut the wires
+  - Don't pull the wires tightly
+
+- Take a couple of days to attach the lifting columns and get to know them
+- The remote controls need to be paired with the controllers
+- Be ready to repair this stuff
+- We have a spare column and controller
+- Main risk is physical damage, such as wires getting snagged
+- Use crimp-on lugs to attach power supply wires to screw terminals
+  - That makes a better connection than wrapping wires around the screws
+  - Prevents a stray strand from shorting out.
+  - Buy at Home Depot
+  - Vise grips are preferred for crimping, don't buy a crimp tool
+- Connecting the wired switch
+  - looks like you insert the wire and screw down
+  - If you have to wrap the wire around the screw, use crimp-on lugs as well
+- We have several controllers
+  - Controllers to implement tilting
+    - "front leg controller" - controls two legs
+    - "back leg controller" - controls two legs
+  - Controller that is set up to control four legs. For most reliable synchronization of legs, use this controller
+- Verify that the controller remembers where the columns are when it loses power. If not, we need a UPS battery backup.
+
+#### Instruction Manual PDF
+
+- See pages 7, 8 and 9 where they tell how to pair the remote controls and attach the power supply and the remote wired switches
+- Read about Reset procedure in case of disconnection, pinching, or other problem - page 17
+
+#### Programmable Settings
+
+- For peetham and chair
+  - Set lower height limit equal to lowest position - 10.83 in
+- Set stroke length (less than 10.83 in)
+  - Effectively sets maximum height
+  - for chair - ??
+  - for peetham - ??
+- For help with Error Codes - WeChat 8615669851253 for video calls
+
+#### Important Links
+
+https://www.ebay.com/itm/235250797536
+
+https://www.dihool.com/lang_en/Lifting-Column-%20DHLC1100-IR-Column_detail/3406_340
+
+https://www.ebay.com/itm/235338721058
+
+https://www.ebay.com/itm/235542021995
+
+https://www.nsbjd.com/collections/dhlce-electric-lift/products/tatami-lifting-column-aluminum-plate-24v-dc-motor-1600n-352lb-load-dhlce?variant=44139468554497
+
+</details>
+
+---
+
+<details>
 <summary><b>New Peetham - Specs</b></summary>
 
 ---
 
 - Width, side-to-side - 54 inches
-- Length, front-to-back - 37 inches
+- Front-to-back - 37 inches
 - Thickness of peetham plywood base - 0.75 in
 - Thickness of peetham top platform (not including padding) - No estimate yet
 - Total height (requested)
 
-  - Adjustable from 12 inches to 19 inches
+  - Adjustable from 12 inches to 19 inches (Paul's numbers - 305 mm and 508 mm)
   - Minimum height of peetham should be as low as technically possible
 
 - Minimum height of new peetham
@@ -58,50 +188,13 @@ It's official. Amma is coming to North America in July 2024.
   - Slightly exceeds requested height
 
 - Height of old peetham
+
   - 2018 - 13.63 inches
   - 2019 - 14.5 inches
 
-</details>
-
----
-
-<details>
-<summary><b>Lifting Columns and System - Specs</b></summary>
-
----
-
-- Lifting columns model number - DHLCE-270A
-- Minimum height - 10.83 in (275 mm)
-- Maximum height - 19.69 in (500 mm)
-- Stroke - 10.83 in
-- Width of column - 5.67 in / 144 mm
-- Width of column base plate - 7.87 in / 200 mm
-- Load (one leg) - 264.55 lb (120 kg)
-- Load (four legs) - 1058.22 lb (480 kg)
-- Maximum load - 1200 N
-  - N (newton) is a unit of the force needed to accelerate a given mass
-- Speed
-  - 5 mm per second, 1 inch in 5 seconds
-  - 55 seconds to fully extend
-- Multiple ways to adjust the height
-  - Wired switch - Location to be determined
-  - Remote control - We are getting extra remotes (4 for each lifting system)
-  - Using wifi and smartphone app
-- Control panel aka controller
-  - the display on control panel tells how far the columns are extended
-  - may allow adjustment capability
-  - protect from damage and tampering
-- Estimated weight of entire lifting system - 30 lb
-
-#### Programmable Settings
-
-- For peetham and chair
-  - Set lower height limit equal to lowest position - 10.83 in
-- Set stroke length (less than 10.83 in)
-  - Effectively sets maximum height
-  - for chair - ??
-  - for peetham - ??
-- For help with Error Codes - WeChat 8615669851253 for video calls
+- Amma's peetham and chair use the same lifting columns - DHLCE-270A
+- Wired switches - near the back, toward the right, Amma's right
+- No switches for Amma - there is no feasible location
 
 </details>
 
@@ -149,29 +242,48 @@ Wind cushion extension - Explain me
 
 ---
 
+#### Dimensions and overview
+
 - Width, side-to-side - 42.875 inches / 47 7/8
 - Length, front-to-back - 25.5 inches
 - Thickness of plywood base - 0.75 in
-- Thickness of top platform (not including padding) - No estimate yet
+- Thickness of top platform (not including padding) - TBD
 - Total height to surface of structure - (not including padding)
-- Adjustable from XX inches to XX inches
 
-#### Lifting system for Amma's chair
+  - Adjustable from 15 7/8 inches to 23 inches (Paul's numbers? 380 mm and 560 mm)
 
-Amma's chair will use the same lifting columns as for the peetham
+- Amma's chair and peetham use the same lifting columns
+  - DHLCE-270A
 
-- DHLCE-270A
+#### Switches, buttons, and controls
 
-#### Adjustable arm rests for Amma's chair
+- Amma's wired switches
+  - "Raise" button & "Lower" button
+  - must be easy to use, simple and intuitive
+  - Location must be -
+    - Easy to reach
+    - Not subject to accidental usage
+    - possibly on surface of seat, under the arm rest
+- Other wired switches - near back of chair, toward right side, Amma's right
+- Location of control panel
+  - protected from accidental damage
+  - visible from some perspective during darshan
+
+#### Modify arm rests for Amma's chair
 
 - Modify chair so that height of arm rest is adjustable
-- Modify padding on the back of the arm rest so that an elastic band can go over the arm rest to hold chair cloth in place
+  - allows for manual adjustment
+  - as shown in separate section - Amma's Arm Rests in Amritapuri
+
+#### Modify padding on arm rest
+
+- Modify padding on back of the arm rest so that an elastic band can go over the arm rest to hold chair cloth in place
 
 #### Replace the strings that hold the back cushion
 
 - Use strings like the ones on the Michigan chair
 
-#### Notes from Paul
+#### Notes from Paul Sawyer
 
 - Surface of peetham and chair - 3/4" plywood
 - Base of peetham and chair - 3/4" plywood
@@ -183,7 +295,39 @@ Amma's chair will use the same lifting columns as for the peetham
 - No screws are visible
 - Round all exposed edges with a router.
 - The design should not impede Amma from swinging her feet under the chair.
-- Optional - backrest and armrests are removable for easier transport
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Amma's Arm Rests in Amritapuri - Notes and Photos
+</b></summary>
+
+---
+
+Under the chair for each armrest, there is a length of square steel tubing which presses against the armrest’s lifting arm and holds it in place.
+
+![image ar1](/images/arm_rests/arm_rest_1.jpg)
+
+---
+
+One side of the tubing has a small square cut out. This is for access for welding a nut inside the tubing.
+
+![image ar2](/images/arm_rests/arm_rest_2.jpg)
+
+---
+
+A machine screw runs through the side of the frame of the chair into the nut in the square tubing. The screw is for tightening the the arm rest extension arms to hold them in desired position. As the extension arm slides up or down so that one of the holes in the extension arm aligns with a round brass pin
+
+![image ar3](/images/arm_rests/arm_rest_3.jpg)
+![image ar4](/images/arm_rests/arm_rest_4.jpg)
+![image ar5](/images/arm_rests/arm_rest_5.jpg)
+![image ar6](/images/arm_rests/arm_rest_6.jpg)
+![image ar7](/images/arm_rests/arm_rest_7.jpg)
+![image ar8](/images/arm_rests/arm_rest_8.jpg)
+![image ar9](/images/arm_rests/arm_rest_9.jpg)
 
 </details>
 
@@ -481,13 +625,20 @@ Peetham arm rest has additional cushion on top
 About Vertical Side Cushions
 
 - Purpose - to fill the space between the inside of the chair arms
-- One on each side
+- These cushions should come in sets, one for each side, right?
 - Shaped like upside down "L"
-- Length "Not to exceed 8 inches from front of the chair to 2 inches from the back of the chair seat"
-- Length needs to be adjusted to match Amma's North America chair, probably 12 to 14 inches
-- Length - 14 inches per Chaitanyan
-- Height - "will need to be measured with the seat and back cushions in place".
-- Doesn't height depend on height of arm rests which are supposed to be adjustable?
+  - each vertical side cushion has two pieces, base of "L", and leg of "L", right?
+- Length
+  - "Not to exceed 8 inches from front of the chair to 2 inches from the back of the chair seat"
+  - Adjusted length for US chair - 14 inches per Chaitanyan
+- Height of "L" shape
+  - unknown
+  - "will need to be measured with the seat and back cushions in place".
+  - Doesn't height depend on height of arm rests which are supposed to be adjustable?
+- Width of "L" shape
+  - same as width of arm rest?
+  - width of arm rest varies from 8 inches toward the back to 6 inches near the front
+  - should width of L shape be tapered?
 
 Vertical Side Cushion A
 
@@ -513,21 +664,37 @@ Cushion should be like the one sitting on the arm rest in this image except L-sh
 
 <details>
 
-<summary><b>Satsang Table</b></summary>
+<summary><b>Satsang Tables</b></summary>
 
 ---
 
-Adjustable folding table for people giving satsang
+Adjustable folding tables for people giving satsang
 
-- Approximate dimensions
+1. Table for sitting in chair
+
+- Requested dimensions
+
+  - Length - 25 inches
+  - Width - 18 inches (revised 16 inches)
+  - Height - 28 inches, adjustable (revised 30 inches)
+
+- Suggested table
+  - VILLEY Folding Camping Table
+  - 36 x 23
+  - Height 16 in / 27 in
+
+2. Table for sitting on floor
+
+- Requested dimensions
+
   - Length - 25 inches
   - Width - 18 inches
-  - Height - 28 inches, adjustable
+  - Height - ???
 
-Suggest purchasing an adjustable computer table from IKEA
-
-- preferably aluminum
-- folds up for transport
+- Suggested table
+  - RedSwing Small Folding Table
+  - 23.6 x 15.7
+  - Height 10 in / 19 in / 24 in
 
 ![Image not available yet](/images/satsang_table_A_side.jpg)
 
@@ -563,7 +730,8 @@ Waiting for photos and more instructions
 
 ---
 
-Waiting for instructions
+- Height - 15 inches
+- Hansa order them, arriving today
 
 </details>
 
