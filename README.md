@@ -412,13 +412,13 @@ Do need measurements of the sides and back?
 
 Pipe diameter is 2.25 in (not sure, let me check)
 
-![image db1](/images\db_temple_dimensions\db_temple_front_view.jpg)
-![image db2](/images\db_temple_dimensions\db_temple_right_corner.jpg)
-![image db3](/images\db_temple_dimensions\db_temple_right_closeup.jpg)
-![image db4](/images\db_temple_dimensions\db_temple_inside_right.jpg)
-![image db5](/images\db_temple_dimensions\db_temple_left_corner.jpg)
-![image db6](/images\db_temple_dimensions\db_temple_left_closeup.jpg)
-![image db7](/images\db_temple_dimensions\db_temple_inside_left.jpg)
+![image db1](/images/db_temple_dimensions/db_temple_front_view.jpg)
+![image db2](/images/db_temple_dimensions/db_temple_right_corner.jpg)
+![image db3](/images/db_temple_dimensions/db_temple_right_closeup.jpg)
+![image db4](/images/db_temple_dimensions/db_temple_inside_right.jpg)
+![image db5](/images/db_temple_dimensions/db_temple_left_corner.jpg)
+![image db6](/images/db_temple_dimensions/db_temple_left_closeup.jpg)
+![image db7](/images/db_temple_dimensions/db_temple_inside_left.jpg)
 
 </details>
 
