@@ -402,6 +402,30 @@ Arm rests - Amma's Chair, Amritapuri
 
 <details>
 
+<summary><b>Temple dimensions for Sulma</b></summary>
+
+---
+
+All measurements are to the center of the pipes.
+
+Do need measurements of the sides and back?
+
+Pipe diameter is 2.25 in (not sure, let me check)
+
+![image db1](/images\db_temple_dimensions\db_temple_front_view.jpg)
+![image db2](/images\db_temple_dimensions\db_temple_right_corner.jpg)
+![image db3](/images\db_temple_dimensions\db_temple_right_closeup.jpg)
+![image db4](/images\db_temple_dimensions\db_temple_inside_right.jpg)
+![image db5](/images\db_temple_dimensions\db_temple_left_corner.jpg)
+![image db6](/images\db_temple_dimensions\db_temple_left_closeup.jpg)
+![image db7](/images\db_temple_dimensions\db_temple_inside_left.jpg)
+
+</details>
+
+---
+
+<details>
+
 <summary><b>Standing Darshan Ramps</b></summary>
 
 ---
@@ -476,6 +500,7 @@ One tall block and one short block -
 
 ---
 
+- Otis is building this table
 - 22 inches long x 12 inches wide
 - Height
   - Adjustable from 22 to 27 inches
@@ -533,6 +558,7 @@ However, I think it isn't helpful for our prasad area. We have never needed it b
 
 This is the table that Amma beats with a stick during bhajans.
 
+- Otis is building this table
 - Top surface is hardwood to withstand beatings from stick
 - Top surface has a groove for the stick so it won't roll away
 - 12.5 x 22 x 25.5 inches high
@@ -553,6 +579,7 @@ This is the table that Amma beats with a stick during bhajans.
 
 ---
 
+- Otis is building this table
 - 10 x 10 x 20 inches high
 - Height includes the wheels
 
@@ -732,7 +759,8 @@ Waiting for photos and more instructions
 ---
 
 - Height - 15 inches
-- Hansa order them, arriving today
+- [Aluminum folding tables](https://www.amazon.com/dp/B07DNR2JST/ref=sspa_dk_detail_1?th=1)
+- We have three
 
 </details>
 
