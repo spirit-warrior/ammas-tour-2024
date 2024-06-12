@@ -8,19 +8,75 @@
 
 <details>
 
-<summary><b>Tour dates - Not released yet</b></summary>
+<summary><b>Tour dates</b></summary>
 
 ---
 
-- Target date for first program - July 4th in Seattle
-- Going to all the cities, except not Dallas, Atlanta, and Toronto
-- Seattle is first
-- Chicago is last
-- Four retreats
-  - San Ramon
-  - Los Angeles
-  - New Mexico
-  - ???
+SEATTLE
+
+July 4 - July 5
+
+Venue: Hyatt Regency Bellevue
+
+Day 1: 11:00 AM
+
+Day 2: 10:00 AM & 7:00 PM
+
+---
+
+OAKLAND, CA
+
+July 7 - 11
+
+Venue: Will be published soon
+
+---
+
+LOS ANGELES, CA
+
+July 13 - 16
+
+Venue: Will be published soon
+
+---
+
+NEW MEXICO
+
+July 19 - 22
+
+Venue: Will be published soon
+
+---
+
+WASHINGTON, DC
+
+July 25 - 29
+
+Venue: Will be published soon
+
+---
+
+BOSTON, MA
+
+July 31, August 1 - 2
+
+Venue: Will be published soon
+
+---
+
+NEW YORK, NY
+
+August 5 - 7
+
+Venue: Will be published soon
+
+---
+
+CHICAGO, IL
+
+August 9 - 11
+
+Venue: Will be published soon
 
 </details>
 
