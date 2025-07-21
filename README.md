@@ -117,7 +117,7 @@ All about drug testing compliance
 <td>
 
 <details>
-<summary><b>Lifting Columns and System - Specs</b></summary>
+<summary><b>Lifting Columns & System - Specs</b></summary>
 
 ---
 
@@ -208,15 +208,62 @@ All about drug testing compliance
 
 #### Important Links
 
-https://www.ebay.com/itm/235250797536
-
 https://www.dihool.com/lang_en/Lifting-Column-%20DHLC1100-IR-Column_detail/3406_340
 
-https://www.ebay.com/itm/235338721058
-
-https://www.ebay.com/itm/235542021995
-
 https://www.nsbjd.com/collections/dhlce-electric-lift/products/tatami-lifting-column-aluminum-plate-24v-dc-motor-1600n-352lb-load-dhlce?variant=44139468554497
+
+</details>
+
+---
+
+<details>
+<summary><b>Lifting Columns & System - User Guide</b></summary>
+
+---
+
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_01.png" width="450" alt="image lc_01"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_02.png" width="450" alt="image lc_02"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_03.png" width="450" alt="image lc_03"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_04.png" width="450" alt="image lc_04"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_05.png" width="450" alt="image lc_05"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_06.png" width="450" alt="image lc_06"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_07.png" width="450" alt="image lc_07"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_08.png" width="450" alt="image lc_08"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_09.png" width="450" alt="image lc_09"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_10.png" width="450" alt="image lc_10"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_11.png" width="450" alt="image lc_11"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_12.png" width="450" alt="image lc_12"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_13.png" width="450" alt="image lc_13"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_14.png" width="450" alt="image lc_14"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_15.png" width="450" alt="image lc_15"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_16.png" width="450" alt="image lc_16"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_17.png" width="450" alt="image lc_17"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_18.png" width="450" alt="image lc_18"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_19.png" width="450" alt="image lc_19"></p>
+<p><img src="images/lifting_columns/user_guide/lifting_col_guide_20.png" width="450" alt="image lc_20"></p>
+
+- Amma's peetham and chair use the same lifting columns - DHLCE-270A
+- Wired switches - near the back, toward the right, Amma's right
+- No switches for Amma - there is no feasible location
+
+</details>
+
+---
+
+<details>
+<summary><b>Lifting Columns & System - Illustrations</b></summary>
+
+---
+
+<p><img src="images/lifting_columns/more_images/lifting_column_1.png" width="450" alt="image lc_01"></p>
+<p><img src="images/lifting_columns/more_images/lifting_column_2.png" width="450" alt="image lc_02"></p>
+<p><img src="images/lifting_columns/more_images/lifting_column_3.png" width="450" alt="image lc_03"></p>
+<p><img src="images/lifting_columns/more_images/lifting_column_4.png" width="600" alt="image lc_04"></p>
+<p><img src="images/lifting_columns/more_images/lifting_column_5.png" width="600" alt="image lc_05"></p>
+
+- Amma's peetham and chair use the same lifting columns - DHLCE-270A
+- Wired switches - near the back, toward the right, Amma's right
+- No switches for Amma - there is no feasible location
 
 </details>
 
