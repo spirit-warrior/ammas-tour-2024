@@ -74,36 +74,6 @@ August 9 - 11
 </tr>
 </table>
 
-## MA Center Trucking
-
-<table>
-<tr>
-<td>
-
-<details>
-
-<summary><b>Various links and documents</b></summary>
-
----
-
-#### Check the following folders for MA Center trucking resources:
-
-- /trucking
-- /trucking/blank_forms
-- /trucking/receipts
-
-#### All about drug testing compliance
-
-- [How to set up drug tests](/trucking/ePassport_guide_preferred_alliance.pdf)
-
-</details>
-
----
-
-</td>
-</tr>
-</table>
-
 ## Peetham / Chair / Platforms
 
 <table>
@@ -939,6 +909,36 @@ Pipe diameter is 2.25 inches (not sure)
 ![image db5](/images/db_temple_dimensions/db_temple_left_corner.jpg)
 ![image db6](/images/db_temple_dimensions/db_temple_left_closeup.jpg)
 ![image db7](/images/db_temple_dimensions/db_temple_inside_left.jpg)
+
+</details>
+
+---
+
+</td>
+</tr>
+</table>
+
+## MA Center Trucking
+
+<table>
+<tr>
+<td>
+
+<details>
+
+<summary><b>Various links and documents</b></summary>
+
+---
+
+#### Check the following folders for MA Center trucking resources:
+
+- /trucking
+- /trucking/blank_forms
+- /trucking/receipts
+
+#### All about drug testing compliance
+
+- [How to set up drug tests](/trucking/ePassport_guide_preferred_alliance.pdf)
 
 </details>
 
