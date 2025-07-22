@@ -8,7 +8,7 @@
 
 <details>
 
-<summary><b>Tour dates</b></summary>
+<summary><b>Tour dates 2024</b></summary>
 
 ---
 
@@ -28,15 +28,11 @@ OAKLAND, CA
 
 July 7 - 11
 
-Venue: Will be published soon
-
 ---
 
 LOS ANGELES, CA
 
 July 13 - 16
-
-Venue: Will be published soon
 
 ---
 
@@ -44,15 +40,11 @@ NEW MEXICO
 
 July 19 - 22
 
-Venue: Will be published soon
-
 ---
 
 WASHINGTON, DC
 
 July 25 - 29
-
-Venue: Will be published soon
 
 ---
 
@@ -60,15 +52,11 @@ BOSTON, MA
 
 July 31, August 1 - 2
 
-Venue: Will be published soon
-
 ---
 
 NEW YORK, NY
 
 August 5 - 7
-
-Venue: Will be published soon
 
 ---
 
@@ -76,7 +64,7 @@ CHICAGO, IL
 
 August 9 - 11
 
-Venue: Will be published soon
+---
 
 </details>
 
@@ -98,9 +86,15 @@ Venue: Will be published soon
 
 ---
 
-All about drug testing compliance
+#### Check the following folders for MA Center trucking resources:
 
-[How to set up drug tests](/trucking/ePassport_guide_preferred_alliance.pdf)
+- /trucking
+- /trucking/blank_forms
+- /trucking/receipts
+
+#### All about drug testing compliance
+
+- [How to set up drug tests](/trucking/ePassport_guide_preferred_alliance.pdf)
 
 </details>
 
@@ -110,7 +104,7 @@ All about drug testing compliance
 </tr>
 </table>
 
-## Changes to Peetham and Chair
+## Peetham / Chair / Platforms
 
 <table>
 <tr>
@@ -137,73 +131,55 @@ All about drug testing compliance
   - 5 mm per second, 1 inch in 5 seconds
   - 55 seconds to fully extend
   - 40 seconds to lift from 12" to 20"
-- Multiple ways to adjust the height
-  - Wired switch - in a protected location, where you can use it by feel
-  - Remote control - Four remotes for each lifting system
-  - Using wifi and smartphone app (maybe)
-- Control panel aka controller
+- The columns can be installed with either side up.
 
-  - the up/down arrows are for setting height limits, etc
-  - may allow adjusting height (raise and lower)
-  - the display tells how far the columns are currently extended
-  - protect from damage and tampering
+#### Control panel aka Controller
 
-- Momentary contact switches
-  - The most intuitive switch is a wired momentary contact switch which only moves while you press and hold the switch. DIHOOL sells a rocker switch (without a cord or case) but it might not be a momentary contact switch. Fortunately, we can buy momentary contact switches and wire them ourselves
-  - Ideally this switch should be in a small box.
+- Up / Down arrows are for changing the height as well as programming the device
+- the display tells how far the columns are currently extended
 
-#### Installation
+- As of 2024, we always use the control panel to adjust the height
 
-- Install the lifting columns so that the electrical connections are at the top, under the platform, rather than near the base. The columns can be installed with either side up.
-- Attach the controller, power supply and control panel. Most of it just plugs together. A few wires require screwing to a screw terminal.
-- Plug it to 120 volts and it should work.
-- Best to connect all the components and test them before fastening down the wires
-- Then decide the best location for everything
+- In general, the control panel can be used at some distance because it is connected to the system by a cable. The cable is long enough so the user can be a few feet away from the chair or peetham. This allows the user to adjust the height from behind or to the side.
+- Sometimes we use a separate control panel that is directly attached under the peetham or chair so that the user has to look under there to check the height setting and to access the buttons to change the height
+- The controller operates all four legs simultaneously, in sync
 
-- Location of control panel - TBD
+- Other methods of control are available if someone wants to become an expert
+  - Remote control - we have not used the remote
+  - Smartphone app
+  - Momentary contact switch - advocated by Paul Sawyer as follows -
+    - The most intuitive switch is a wired momentary contact switch which only moves while you press and hold the switch. DIHOOL sells a rocker switch (without a cord or case) but it might not be a momentary contact switch. Fortunately, we can buy momentary contact switches and wire them ourselves
+    - Ideally this switch should be in a small box
 
-  - display should be visible from somewhere so a specific height can be set
+#### Installation Notes
 
-- Optional - Extra rocker switches that Paul is mounting on a panel or in a box
-- No loose wires
-
-  - Use wire tie downs
-  - Don't use staples because they can cut the wires
-  - Don't pull the wires tightly
-
-- Take a couple of days to attach the lifting columns and get to know them
-- The remote controls need to be paired with the controllers
-- Be ready to repair this stuff
+- The power supplies and electrical connections are located under the platform because this location is more protected from accidental damage than near the base.
+- The controller, power supply and control panel are simply plugged together. A few wires require screwing to a screw terminal.
+- Uses 120 volt power
 - We have a spare column and controller
-- Main risk is physical damage, such as wires getting snagged
 - Use crimp-on lugs to attach power supply wires to screw terminals
-  - That makes a better connection than wrapping wires around the screws
-  - Prevents a stray strand from shorting out.
-  - Buy at Home Depot
-  - Vise grips are preferred for crimping, don't buy a crimp tool
-- Connecting the wired switch
-  - looks like you insert the wire and screw down
-  - If you have to wrap the wire around the screw, use crimp-on lugs as well
-- We have several controllers
-  - Controllers to implement tilting
-    - "front leg controller" - controls two legs
-    - "back leg controller" - controls two legs
-  - Controller that is set up to control four legs. For most reliable synchronization of legs, use this controller
-- Verify that the controller remembers where the columns are when it loses power. If not, we need a UPS battery backup.
+  - Available at Home Depot
+  - better than wrapping wires around the screws
+  - Vise grips are fine for crimping
+- No loose wires
+- Use wire tie downs
+- Don't use staples because they can cut the wires
+- Don't pull wires tightly
+- Protect wires from getting snagged
+- **Be ready to repair the system**
 
-#### Instruction Manual PDF
+#### Programming the controller
 
+- explained in Instruction Manual - see next section
+- **Be familiar with reset procedure** in case of Errors, legs getting out of sync, safety shutdown, or other problem - page 17
 - See pages 7, 8 and 9 where they tell how to pair the remote controls and attach the power supply and the remote wired switches
-- Read about Reset procedure in case of disconnection, pinching, or other problem - page 17
 
 #### Programmable Settings
 
 - For peetham and chair
   - Set lower height limit equal to lowest position - 10.83 in
 - Set stroke length (less than 10.83 in)
-  - Effectively sets maximum height
-  - for chair - ??
-  - for peetham - ??
+  - Use maximum stroke length
 - For help with Error Codes - WeChat 8615669851253 for video calls
 
 #### Important Links
@@ -211,6 +187,11 @@ All about drug testing compliance
 https://www.dihool.com/lang_en/Lifting-Column-%20DHLC1100-IR-Column_detail/3406_340
 
 https://www.nsbjd.com/collections/dhlce-electric-lift/products/tatami-lifting-column-aluminum-plate-24v-dc-motor-1600n-352lb-load-dhlce?variant=44139468554497
+
+#### Important Updates
+
+- We had to use two power supplies for reliable operation of four lifting columns.
+- More updates are needed...
 
 </details>
 
@@ -242,28 +223,22 @@ https://www.nsbjd.com/collections/dhlce-electric-lift/products/tatami-lifting-co
 <p><img src="images/lifting_columns/user_guide/lifting_col_guide_19.png" width="450" alt="image lc_19"></p>
 <p><img src="images/lifting_columns/user_guide/lifting_col_guide_20.png" width="450" alt="image lc_20"></p>
 
-- Amma's peetham and chair use the same lifting columns - DHLCE-270A
-- Wired switches - near the back, toward the right, Amma's right
-- No switches for Amma - there is no feasible location
-
 </details>
 
 ---
 
 <details>
-<summary><b>Lifting Columns & System - Illustrations</b></summary>
+<summary><b>Lifting Columns & System - DHLCE-270A</b></summary>
 
 ---
+
+- Amma's peetham and chair use the same lifting columns - DHLCE-270A
 
 <p><img src="images/lifting_columns/more_images/lifting_column_1.png" width="450" alt="image lc_01"></p>
 <p><img src="images/lifting_columns/more_images/lifting_column_2.png" width="450" alt="image lc_02"></p>
 <p><img src="images/lifting_columns/more_images/lifting_column_3.png" width="450" alt="image lc_03"></p>
 <p><img src="images/lifting_columns/more_images/lifting_column_4.png" width="600" alt="image lc_04"></p>
 <p><img src="images/lifting_columns/more_images/lifting_column_5.png" width="600" alt="image lc_05"></p>
-
-- Amma's peetham and chair use the same lifting columns - DHLCE-270A
-- Wired switches - near the back, toward the right, Amma's right
-- No switches for Amma - there is no feasible location
 
 </details>
 
@@ -299,6 +274,53 @@ https://www.nsbjd.com/collections/dhlce-electric-lift/products/tatami-lifting-co
 - Amma's peetham and chair use the same lifting columns - DHLCE-270A
 - Wired switches - near the back, toward the right, Amma's right
 - No switches for Amma - there is no feasible location
+
+</details>
+
+---
+
+<details>
+
+<summary><b>Amma's Platforms for Standing Darshan</b></summary>
+
+---
+
+Warning - Unfortunately the dimensions of the platforms (US tour 2024) are not available. The platforms need to be reassembled and measured.
+
+The height of the platforms is adjustable. There are extensions for the legs that are removed when Amma gives darshan in the chair rather than the peetham.
+
+Amma's platform for regular darshan
+
+- Accommodates Amma's peetham
+- Height - ??
+- Width - ??
+- Front to back - ??
+
+Amma's platform for Amma bhava / Devi bhava (final program at this city)
+
+- Accommodates Amma's chair
+- Height - ??
+  - Lower than for regular darshan to compensate for the chair being higher than the peetham
+- Width - ??
+- Front to back - ??
+
+Side platforms (3?)
+
+- Height - ??
+- Width - ??
+- Length - ??
+
+- Typical stage height, N. American tour - 36 inches
+
+Venues in US must comply with ADA requirements (Americans with Disabilities Act). For ADA compliance, the slope for a wheelchair ramp must be no greater than 1:12 (one inch of rise for every 12 inches of ramp length).
+
+---
+
+Planks - for raising short people
+
+Various sizes, heights, and widths
+
+![image sdB](/images/standing_darshan/standing_darshan_2.png)
 
 </details>
 
@@ -502,100 +524,6 @@ Arm rests - Amma's Chair, Amritapuri
 <table>
 <tr>
 <td>
-
-<details>
-
-<summary><b>Temple dimensions for Sulma</b></summary>
-
----
-
-All measurements are to the center of the pipes.
-
-Do need measurements of the sides and back?
-
-Pipe diameter is 2.25 in (not sure, let me check)
-
-![image db1](/images/db_temple_dimensions/db_temple_front_view.jpg)
-![image db2](/images/db_temple_dimensions/db_temple_right_corner.jpg)
-![image db3](/images/db_temple_dimensions/db_temple_right_closeup.jpg)
-![image db4](/images/db_temple_dimensions/db_temple_inside_right.jpg)
-![image db5](/images/db_temple_dimensions/db_temple_left_corner.jpg)
-![image db6](/images/db_temple_dimensions/db_temple_left_closeup.jpg)
-![image db7](/images/db_temple_dimensions/db_temple_inside_left.jpg)
-
-</details>
-
----
-
-<details>
-
-<summary><b>Standing Darshan Ramps</b></summary>
-
----
-
-Warning - These calculations are only valid if stage height is 36 inches
-
-Calculate height of raised platform
-
-- Typical stage height, N. American tour - 36 inches
-- Distance of raised platform below stage - 20.75 inches
-- 36 - 20.75 = 15.25
-- Typical height of raised platform - 15.25 inches
-
-Calculate length of ramp -
-
-- Height of raised platform - 15.25 inches
-- Slope - 1:12
-- 15.25 x 12 = 183 inches aka 15 feet 3 inches
-- Length of ramp - at least 15.25 feet
-
-Virtually all venues in US must comply with ADA requirements (Americans with Disabilities Act). For ADA compliance, the slope for a wheelchair ramp must be no greater than 1:12 (one inch of rise for every 12 inches of ramp length).
-
-Raised platform
-
-- Width - 77 inches
-- Front to back - 49.5 inches
-- Height - 20.75 inches lower than the stage
-
-Dimensions of ramps
-
-- Width
-  - Center ramp - 77 inches
-  - Side ramps - 49.5 inches
-- Length - 15.25 feet
-- Height at high end - 15.25 inches
-- Slope - 1:12 or 8.33%
-
-![image sdA](/images/standing_darshan/standing_darshan_1.png)
-![image sdE](/images/standing_darshan/standing_darshan_6.png)
-
----
-
-Planks - I don't get this
-
-For standing darshan, there need to be large planks to bring the people higher/closer to Amma as needed
-
-- 4 planks 30L x 25W x 2 height (inches)
-- 2 planks 30L x 25W x 1 height (inches)
-- covered with cheap carpet
-
-Photo of one plank
-
-![image sdB](/images/standing_darshan/standing_darshan_2.png)
-![image sdC](/images/standing_darshan/standing_darshan_3.png)
-
----
-
-Wooden blocks
-
-One tall block and one short block -
-
-![image sdD](/images/standing_darshan/standing_darshan_4.png)
-![image sdE](/images/standing_darshan/standing_darshan_5.png)
-
-</details>
-
----
 
 <details>
 
@@ -891,6 +819,76 @@ Click to view demo on YouTube -
 
 <details>
 
+<summary><b>Initial specs for Stage Platforms - Outdated</b></summary>
+
+---
+
+Warning - These calculations are only valid if stage height is 36 inches
+
+Calculate height of raised platform
+
+- Typical stage height, N. American tour - 36 inches
+- Distance of raised platform below stage - 20.75 inches
+- 36 - 20.75 = 15.25
+- Typical height of raised platform - 15.25 inches
+
+Calculate length of ramp -
+
+- Height of raised platform - 15.25 inches
+- Slope - 1:12
+- 15.25 x 12 = 183 inches aka 15 feet 3 inches
+- Length of ramp - at least 15.25 feet
+
+Virtually all venues in US must comply with ADA requirements (Americans with Disabilities Act). For ADA compliance, the slope for a wheelchair ramp must be no greater than 1:12 (one inch of rise for every 12 inches of ramp length).
+
+Raised platform
+
+- Width - 77 inches
+- Front to back - 49.5 inches
+- Height - 20.75 inches lower than the stage
+
+Dimensions of ramps
+
+- Width
+  - Center ramp - 77 inches
+  - Side ramps - 49.5 inches
+- Length - 15.25 feet
+- Height at high end - 15.25 inches
+- Slope - 1:12 or 8.33%
+
+![image sdA](/images/standing_darshan/standing_darshan_1.png)
+![image sdE](/images/standing_darshan/standing_darshan_6.png)
+
+---
+
+Planks - I don't get this
+
+For standing darshan, there need to be large planks to bring the people higher/closer to Amma as needed
+
+- 4 planks 30L x 25W x 2 height (inches)
+- 2 planks 30L x 25W x 1 height (inches)
+- covered with cheap carpet
+
+Photo of one plank
+
+![image sdB](/images/standing_darshan/standing_darshan_2.png)
+![image sdC](/images/standing_darshan/standing_darshan_3.png)
+
+---
+
+Wooden blocks
+
+One tall block and one short block -
+
+![image sdD](/images/standing_darshan/standing_darshan_4.png)
+![image sdE](/images/standing_darshan/standing_darshan_5.png)
+
+</details>
+
+---
+
+<details>
+
 <summary><b>Equipment and Setup for Previous Tours - 2019</b></summary>
 
 ---
@@ -919,6 +917,28 @@ Click to view demo on YouTube -
 - Amma's Side Room
 - Stage Lighting
 - Devi Bhava
+
+</details>
+
+---
+
+<details>
+
+<summary><b>DB Temple dimensions - US tour / San Ramon</b></summary>
+
+---
+
+All measurements are to the center of the pipes.
+
+Pipe diameter is 2.25 inches (not sure)
+
+![image db1](/images/db_temple_dimensions/db_temple_front_view.jpg)
+![image db2](/images/db_temple_dimensions/db_temple_right_corner.jpg)
+![image db3](/images/db_temple_dimensions/db_temple_right_closeup.jpg)
+![image db4](/images/db_temple_dimensions/db_temple_inside_right.jpg)
+![image db5](/images/db_temple_dimensions/db_temple_left_corner.jpg)
+![image db6](/images/db_temple_dimensions/db_temple_left_closeup.jpg)
+![image db7](/images/db_temple_dimensions/db_temple_inside_left.jpg)
 
 </details>
 
